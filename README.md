@@ -5,9 +5,10 @@ Outil de visualisation de données et de flux sur le réseau métropolitain pari
 ## Required
  * tornado
  * MySQLdb
+ * leaflet
 
 ## Preview
 
-<img  href="https://raw.githubusercontent.com/riless/RATP-viz/master/img/flux.jpg"  width="800" />
+<img src="https://github.com/riless/RATP-viz/blob/master/img/flux.jpg" width="600" />
+<img src="https://github.com/riless/RATP-viz/blob/master/img/points.jpg" width="600" />
 
-<img href="https://raw.githubusercontent.com/riless/RATP-viz/master/img/points.jpg" width="600" />
