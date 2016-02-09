@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <link rel="stylesheet" href="{{ static_url("style.css") }}">
+    <!-- jQuery -->
+    <script src="{{ static_url("js/jquery-2.1.3.min.js") }}"></script>
+    <script src="{{ static_url("js/papaparse.min.js") }}"></script>
+    <script src="{{ static_url("js/noUiSlider.7.0.10/jquery.nouislider.all.min.js") }}"></script>
+    <link rel="stylesheet" href="{{ static_url("js/noUiSlider.7.0.10/jquery.nouislider.min.css") }}" />
+
+    <script src="{{ static_url("js/bootstrap-3.3.4/js/bootstrap.min.js") }}"></script>
+    <link rel="stylesheet" href="{{ static_url("js/bootstrap-3.3.4/css/bootstrap.css") }}" />
+
+    <!-- learflet -->
+    <link rel="stylesheet" href="{{ static_url("js/leaflet-0.7.3/leaflet.css") }}" />
+    <script src="{{ static_url("js/leaflet-0.7.3/leaflet.js") }}"></script>
+    <script src="{{ static_url("js/AnimatedMarker.js") }}"></script>
+    <script src="{{ static_url("js/leaflet.polylineDecorator.js") }}"></script>
+    <script src="{{ static_url("js/arc.js") }}"></script>
+    <!-- <script src="{{ static_url("js/leaflet-0.7.3/leaflet-src.js") }}"></script> -->
+
+    <!-- turf -->
+    <script src="{{ static_url("js/turf.min.js") }}" charset="utf-8"></script>
+</head>
+<body>
+    <div id="welcome">
+        <div id="welcome-wrap">
+            <h1>Outil de visualisation des données sur le réseau de transport de la RATP</h1>
+            <label for="calendar-list">Selectionner un calendrier sur lequel faire la visualisation</label>
+            <select class="custom-select" name="" id="calendar-list"></select>
+            <br>
+            <br>
+            <button id="start-visu" type="button">Commencer la visualisation</button>
+        </div>
+    </div>
+    <div id="map"></div>
+    <div id="map-info">
+        <h3 id="map-title">Carte de paris</h3>
+        <p id="map-desc">Selectionnez une distribution dans le menu "DISTROS"</p>
+    </div>
+
+    <section id="side-panel">
+        <div id="side-buttons">
+            <a id="add_mod" href="#">Ajouter</a>
+            <a id="data_mod" href="#">Données</a>
+            <a id="map_mod" href="#">Carte</a>
+            <a id="distro_mod" href="#">Distros</a>
+            <a id="flow_mod" href="#">Flux</a>
+        </div>
+        <div id="side-views">
+            <div id="add_mod_editor" class="editor">
+                <h3>Ajouter</h3>
+                <form id="upload-data-form" enctype="multipart/form-data"  action="/upload" method="POST">
+
+                    <label id="data-file-label" class="grey-button" for="data-file" >Sélectionner des données...</label>
+                    <input type="file" name="data_file" id="data-file" style="display:none">
+
+                    <div id="file-loaded">
+                        <label class="label-form" for="upload-cp">Colonne arrondissement</label>
+                        <select name="upload_cp" id="upload-cp" class="custom-select">
+                            <option selected="selected" value="-1" class="default-select">--Choisir--</option>
+                        </select>
+
+                        <label class="label-form" for="upload-cp">Colonne valeurs</label>
+                        <select name="upload_values" id="upload-values" class="custom-select">
+                            <option selected="selected" class="default-select" value="-1">--Choisir--</option>
+                        </select>
+
+                        <label class="label-form" for="data-label">Label</label>
+                        <input name="data_label" id="data-label" class="form-control" type="text" placeholder="Ex: Age Moyen">
+
+                        <label class="label-form">Icon 32x32</label>
+                        <label class="grey-button" for="data-icon" id="data-icon-label">Choisir icon...</label>
+                        <input type="file" name="data_icon" id="data-icon">
+                        <div id="icon-preview"></div>
+                        
+                        <input id="data-submit" type="submit" value="Envoyer les données" class="blue-button float-right" />
+                    </div>
+                </form>
+            </div>
+            <div id="data_mod_editor" class="editor">
+                <h3>Données</h3>
+                <h4>Distributions</h4>
+                <table id="distro-table"><tbody>
+                </tbody></table>
+            </div>
+
+            <div id="map_mod_editor" class="editor">
+                <h3>Carte</h3>
+  <!--               <h4>Séléctionner une date</h4>
+                    <select name="" id="calendar-list"></select>
+ -->
+                <h4>Séléctionner une carte</h4>
+                    <div id="map-list"></div>
+                    <br>
+                <h4>Filtrer par lignes</h4>
+                    <div id="route-list">
+                        <img route_id="select_nothing" src="static/img/white.png" class="default-route">
+                        <img route_id="select_all" src="static/img/black.png" class="default-route">
+                        <br>
+                    </div>
+                    <br>
+                <h4><input id="check-paris" type="checkbox" checked="checked">Afficher les contours de Paris</h4>
+                
+            </div>
+
+            <div id="distro_mod_editor" class="editor">
+                <h3>Distros</h3>
+                <div id="distro-list">
+                    <img src="static/icons/0.png" title="Aucune distribution" distro_id="0" class="default-distro">
+                </div>
+            </div>
+
+            <div id="flow_mod_editor" class="editor">
+                <h3>Flux</h3>
+                <h4>Déplacement des usagers</h4>
+                <label for="flux-usagers-cbx"><input id="flux-usagers-cbx" type="checkbox"> Afficher le déplacement des usagers</label>
+                <br>
+                <div id="flux-usagers">
+                    <div id="flux-usagers-slider"></div>
+                    <input name="min-flux" id="min-flux" type="number">
+                    <input name="max-flux" id="max-flux" type="number">
+                </div>
+            </div>
+
+        </div>
+        
+    </section>
+
+    
+</body>
+
+<script src="{{ static_url("js/app.js") }}"></script>
+
+</html>
