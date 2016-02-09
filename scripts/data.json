@@ -1,0 +1,4300 @@
+{
+    "districts": {
+        "1": {
+            "id": 1,
+            "name": "1er ",
+            "age": 39.726,
+            "area": 1.83,
+            "priceSquare": 12190,
+            "singles": 8349.882,
+            "married": 5284.697,
+            "retired": 2407.562,
+            "students": 1440.144,
+            "unemployment": 915.091,
+            "income": 47638.392,
+            "tax": 7176.914,
+            "highDiploma": 6994.805,
+            "permanentResidence": 10069.166,
+            "secondResidence": 2309.018,
+            "owners": 2937.094,
+            "tenants": 6283.611,
+            "populationBase": {
+                "id": 1,
+                "all": 17614,
+                "plus15": 15651.72,
+                "activityAll": 13243.649,
+                "activityActive": 10572.783,
+                "noschool": 13423.652,
+                "accommodations": 13759.77
+            },
+            "sex": {
+                "id": 1,
+                "men": 8858.317,
+                "women": 8755.683
+            },
+            "politics": {
+                "id": 1,
+                "right": 4414,
+                "left": 4047
+            }
+        },
+        "2": {
+            "id": 2,
+            "name": "2e",
+            "age": 36.832,
+            "area": 0.99,
+            "priceSquare": 9350,
+            "singles": 11939.561,
+            "married": 5808.665,
+            "retired": 2418.539,
+            "students": 1837.009,
+            "unemployment": 1458.58,
+            "income": 36055.454,
+            "tax": 4676.412,
+            "highDiploma": 8425.587,
+            "permanentResidence": 13363.344,
+            "secondResidence": 1517.453,
+            "owners": 4230.214,
+            "tenants": 8249.652,
+            "populationBase": {
+                "id": 2,
+                "all": 22400,
+                "plus15": 19724.332,
+                "activityAll": 17608.271,
+                "activityActive": 14258.867,
+                "noschool": 16607.658,
+                "accommodations": 16923.228
+            },
+            "sex": {
+                "id": 2,
+                "men": 11607.853,
+                "women": 10792.147
+            },
+            "politics": {
+                "id": 2,
+                "right": 4209,
+                "left": 5717
+            }
+        },
+        "3": {
+            "id": 3,
+            "name": "3e",
+            "age": 38.017,
+            "area": 1.17,
+            "priceSquare": 10500,
+            "singles": 17951.984,
+            "married": 9595.71,
+            "retired": 4357.24,
+            "students": 2994.006,
+            "unemployment": 2215.936,
+            "income": 38815.612,
+            "tax": 5385.126,
+            "highDiploma": 13733.99,
+            "permanentResidence": 20492.336,
+            "secondResidence": 2899.944,
+            "owners": 7279.458,
+            "tenants": 11931.071,
+            "populationBase": {
+                "id": 3,
+                "all": 35655,
+                "plus15": 31128.958,
+                "activityAll": 26995.207,
+                "activityActive": 21745.177,
+                "noschool": 26387.305,
+                "accommodations": 25809.535
+            },
+            "sex": {
+                "id": 3,
+                "men": 17684.439,
+                "women": 17970.561
+            },
+            "politics": {
+                "id": 3,
+                "right": 6579,
+                "left": 10445
+            }
+        },
+        "4": {
+            "id": 4,
+            "name": "4e",
+            "age": 40.417,
+            "area": 1.6,
+            "priceSquare": 10320,
+            "singles": 13399.538,
+            "married": 8163.102,
+            "retired": 4504.632,
+            "students": 2599.49,
+            "unemployment": 1615.748,
+            "income": 41091.344,
+            "tax": 5748.128,
+            "highDiploma": 10679.717,
+            "permanentResidence": 16157.725,
+            "secondResidence": 4002.735,
+            "owners": 5136.73,
+            "tenants": 9483.576,
+            "populationBase": {
+                "id": 4,
+                "all": 28192,
+                "plus15": 25003.796,
+                "activityAll": 20538.123,
+                "activityActive": 15987.125,
+                "noschool": 21071.593,
+                "accommodations": 22529.275
+            },
+            "sex": {
+                "id": 4,
+                "men": 13557.576,
+                "women": 14634.424
+            },
+            "politics": {
+                "id": 4,
+                "right": 6281,
+                "left": 7666
+            }
+        },
+        "5": {
+            "id": 5,
+            "name": "5e",
+            "age": 39.846,
+            "area": 2.54,
+            "priceSquare": 10320,
+            "singles": 29100.752,
+            "married": 18311.698,
+            "retired": 10133.465,
+            "students": 9564.106,
+            "unemployment": 2729.337,
+            "income": 46491.063,
+            "tax": 5994.506,
+            "highDiploma": 22607.579,
+            "permanentResidence": 33899.18,
+            "secondResidence": 3999.251,
+            "owners": 11105.005,
+            "tenants": 19820.749,
+            "populationBase": {
+                "id": 5,
+                "all": 61531,
+                "plus15": 54505.26,
+                "activityAll": 44438.181,
+                "activityActive": 31031.013,
+                "noschool": 41025.047,
+                "accommodations": 40387.256
+            },
+            "sex": {
+                "id": 5,
+                "men": 28505.011,
+                "women": 33025.989
+            },
+            "politics": {
+                "id": 5,
+                "right": 13004,
+                "left": 16702
+            }
+        },
+        "6": {
+            "id": 6,
+            "name": "6e",
+            "age": 41.822,
+            "area": 2.15,
+            "priceSquare": 12250,
+            "singles": 19099.182,
+            "married": 14132.162,
+            "retired": 7863.588,
+            "students": 6493.59,
+            "unemployment": 1738.924,
+            "income": 66697.013,
+            "tax": 11084.779,
+            "highDiploma": 17060.468,
+            "permanentResidence": 23285.217,
+            "secondResidence": 5821.477,
+            "owners": 8895.909,
+            "tenants": 11960.997,
+            "populationBase": {
+                "id": 6,
+                "all": 43143,
+                "plus15": 38376.813,
+                "activityAll": 29970.231,
+                "activityActive": 20416.194,
+                "noschool": 29736.838,
+                "accommodations": 32389.723
+            },
+            "sex": {
+                "id": 6,
+                "men": 19233.637,
+                "women": 23909.363
+            },
+            "politics": {
+                "id": 6,
+                "right": 12309,
+                "left": 9037
+            }
+        },
+        "7": {
+            "id": 7,
+            "name": "7e",
+            "age": 42.206,
+            "area": 4.09,
+            "priceSquare": 12160,
+            "singles": 22334.716,
+            "married": 21222.102,
+            "retired": 10120.148,
+            "students": 6173.273,
+            "unemployment": 2412.966,
+            "income": 82449.45,
+            "tax": 14259.303,
+            "highDiploma": 23119.448,
+            "permanentResidence": 30902.261,
+            "secondResidence": 5668.677,
+            "owners": 11821.535,
+            "tenants": 15709.612,
+            "populationBase": {
+                "id": 7,
+                "all": 57442,
+                "plus15": 50167.512,
+                "activityAll": 38888.552,
+                "activityActive": 28018.785,
+                "noschool": 41248.621,
+                "accommodations": 38911.273
+            },
+            "sex": {
+                "id": 7,
+                "men": 26026.599,
+                "women": 31415.401
+            },
+            "politics": {
+                "id": 7,
+                "right": 18595,
+                "left": 7318
+            }
+        },
+        "8": {
+            "id": 8,
+            "name": "8e",
+            "age": 39.048,
+            "area": 3.88,
+            "priceSquare": 10020,
+            "singles": 14338.277,
+            "married": 15558.84,
+            "retired": 5340.617,
+            "students": 4350.876,
+            "unemployment": 1715.438,
+            "income": 76943.729,
+            "tax": 13059.64,
+            "highDiploma": 14605.422,
+            "permanentResidence": 18909.848,
+            "secondResidence": 4413.902,
+            "owners": 6892.592,
+            "tenants": 10014.968,
+            "populationBase": {
+                "id": 8,
+                "all": 40278,
+                "plus15": 33911.855,
+                "activityAll": 28336.237,
+                "activityActive": 20644.304,
+                "noschool": 28050.667,
+                "accommodations": 26668.682
+            },
+            "sex": {
+                "id": 8,
+                "men": 19100.417,
+                "women": 21177.583
+            },
+            "politics": {
+                "id": 8,
+                "right": 14002,
+                "left": 5320
+            }
+        },
+        "9": {
+            "id": 9,
+            "name": "9e",
+            "age": 37.411,
+            "area": 2.18,
+            "priceSquare": 8750,
+            "singles": 27680.857,
+            "married": 18236.059,
+            "retired": 7373.354,
+            "students": 5226.585,
+            "unemployment": 3384.105,
+            "income": 40412.895,
+            "tax": 5140.596,
+            "highDiploma": 21672.484,
+            "permanentResidence": 31801.463,
+            "secondResidence": 3254.969,
+            "owners": 12702.76,
+            "tenants": 17042.949,
+            "populationBase": {
+                "id": 9,
+                "all": 60275,
+                "plus15": 51498.751,
+                "activityAll": 44678.179,
+                "activityActive": 35699.705,
+                "noschool": 43523.922,
+                "accommodations": 38964.14
+            },
+            "sex": {
+                "id": 9,
+                "men": 29243.489,
+                "women": 31031.511
+            },
+            "politics": {
+                "id": 9,
+                "right": 13344,
+                "left": 15782
+            }
+        },
+        "10": {
+            "id": 10,
+            "name": "10e",
+            "age": 36.442,
+            "area": 2.89,
+            "priceSquare": 7500,
+            "singles": 45828.211,
+            "married": 26764.153,
+            "retired": 10591.464,
+            "students": 7153.745,
+            "unemployment": 7500.76,
+            "income": 27068.215,
+            "tax": 2586.701,
+            "highDiploma": 27304.005,
+            "permanentResidence": 49595.634,
+            "secondResidence": 2340.751,
+            "owners": 17048.827,
+            "tenants": 29721.871,
+            "populationBase": {
+                "id": 10,
+                "all": 95911,
+                "plus15": 81171.568,
+                "activityAll": 71832.555,
+                "activityActive": 57807.615,
+                "noschool": 69224.584,
+                "accommodations": 57659.717
+            },
+            "sex": {
+                "id": 10,
+                "men": 48504.064,
+                "women": 47406.936
+            },
+            "politics": {
+                "id": 10,
+                "right": 12291,
+                "left": 27856
+            }
+        },
+        "11": {
+            "id": 11,
+            "name": "11e",
+            "age": 38.053,
+            "area": 3.67,
+            "priceSquare": 8160,
+            "singles": 77694.994,
+            "married": 39877.214,
+            "retired": 21488.863,
+            "students": 12250.713,
+            "unemployment": 10376.039,
+            "income": 27684.87,
+            "tax": 2743.539,
+            "highDiploma": 48198.69,
+            "permanentResidence": 86363.176,
+            "secondResidence": 4912.054,
+            "owners": 29833.771,
+            "tenants": 52130.872,
+            "populationBase": {
+                "id": 11,
+                "all": 152744,
+                "plus15": 133266.812,
+                "activityAll": 114713.505,
+                "activityActive": 91402.95,
+                "noschool": 113148.486,
+                "accommodations": 99088.26
+            },
+            "sex": {
+                "id": 11,
+                "men": 72862.968,
+                "women": 79881.032
+            },
+            "politics": {
+                "id": 11,
+                "right": 22346,
+                "left": 46972
+            }
+        },
+        "12": {
+            "id": 12,
+            "name": "12e",
+            "age": 40.092,
+            "area": 6.37,
+            "priceSquare": 7850,
+            "singles": 64190.138,
+            "married": 42504.792,
+            "retired": 25287.806,
+            "students": 11601.525,
+            "unemployment": 7185.493,
+            "income": 30503.056,
+            "tax": 3063.477,
+            "highDiploma": 41553.069,
+            "permanentResidence": 75655.11,
+            "secondResidence": 3351.184,
+            "owners": 24730.784,
+            "tenants": 47554.281,
+            "populationBase": {
+                "id": 12,
+                "all": 142897,
+                "plus15": 124213.22,
+                "activityAll": 102206.681,
+                "activityActive": 80199.51,
+                "noschool": 106339.764,
+                "accommodations": 84175.244
+            },
+            "sex": {
+                "id": 12,
+                "men": 66843.974,
+                "women": 76053.026
+            },
+            "politics": {
+                "id": 12,
+                "right": 28931,
+                "left": 41522
+            }
+        },
+        "13": {
+            "id": 13,
+            "name": "13e",
+            "age": 39.32,
+            "area": 7.15,
+            "priceSquare": 7900,
+            "singles": 79346.471,
+            "married": 54936.223,
+            "retired": 29922.816,
+            "students": 17736.379,
+            "unemployment": 10805.404,
+            "income": 26964.556,
+            "tax": 2391.996,
+            "highDiploma": 48141.974,
+            "permanentResidence": 89548.021,
+            "secondResidence": 4449.467,
+            "owners": 24450.088,
+            "tenants": 60744.593,
+            "populationBase": {
+                "id": 13,
+                "all": 182032,
+                "plus15": 156691.557,
+                "activityAll": 130573.971,
+                "activityActive": 97801.327,
+                "noschool": 129851.643,
+                "accommodations": 99177.863
+            },
+            "sex": {
+                "id": 13,
+                "men": 86381.375,
+                "women": 95650.625
+            },
+            "politics": {
+                "id": 13,
+                "right": 29456,
+                "left": 55350
+            }
+        },
+        "14": {
+            "id": 14,
+            "name": "14e",
+            "age": 39.585,
+            "area": 5.64,
+            "priceSquare": 8630,
+            "singles": 66259.621,
+            "married": 37765.365,
+            "retired": 23132.823,
+            "students": 15358.156,
+            "unemployment": 7255.925,
+            "income": 33267.54,
+            "tax": 3601.579,
+            "highDiploma": 42662.074,
+            "permanentResidence": 71404.408,
+            "secondResidence": 5590.084,
+            "owners": 21502.146,
+            "tenants": 45947.871,
+            "populationBase": {
+                "id": 14,
+                "all": 137189,
+                "plus15": 120381.123,
+                "activityAll": 99052.791,
+                "activityActive": 72956.985,
+                "noschool": 96930.86,
+                "accommodations": 83062.347
+            },
+            "sex": {
+                "id": 14,
+                "men": 63299.162,
+                "women": 73889.838
+            },
+            "politics": {
+                "id": 14,
+                "right": 26083,
+                "left": 39551
+            }
+        },
+        "15": {
+            "id": 15,
+            "name": "15e",
+            "age": 39.594,
+            "area": 8.48,
+            "priceSquare": 8600,
+            "singles": 103505.059,
+            "married": 74796.728,
+            "retired": 39715.255,
+            "students": 21702.964,
+            "unemployment": 10878.087,
+            "income": 37225.798,
+            "tax": 4314.657,
+            "highDiploma": 82207.097,
+            "permanentResidence": 127486.286,
+            "secondResidence": 8843.001,
+            "owners": 41261.033,
+            "tenants": 79581.867,
+            "populationBase": {
+                "id": 15,
+                "all": 236491,
+                "plus15": 204631.554,
+                "activityAll": 167954.822,
+                "activityActive": 128031.106,
+                "noschool": 172149.52,
+                "accommodations": 146980.169
+            },
+            "sex": {
+                "id": 15,
+                "men": 106878.025,
+                "women": 129612.975
+            },
+            "politics": {
+                "id": 15,
+                "right": 60357,
+                "left": 50388
+            }
+        },
+        "16": {
+            "id": 16,
+            "name": "16e",
+            "age": 42.447,
+            "area": 7.91,
+            "priceSquare": 9350,
+            "singles": 55905.916,
+            "married": 66600.591,
+            "retired": 30953.984,
+            "students": 17610.668,
+            "unemployment": 6958.381,
+            "income": 72162.762,
+            "tax": 11367.627,
+            "highDiploma": 61504.635,
+            "permanentResidence": 85337.292,
+            "secondResidence": 8969.041,
+            "owners": 37105.795,
+            "tenants": 41220.784,
+            "populationBase": {
+                "id": 16,
+                "all": 169372,
+                "plus15": 144334.292,
+                "activityAll": 110127.378,
+                "activityActive": 77707.136,
+                "noschool": 120679.403,
+                "accommodations": 103867.132
+            },
+            "sex": {
+                "id": 16,
+                "men": 76275.379,
+                "women": 93096.621
+            },
+            "politics": {
+                "id": 16,
+                "right": 59309,
+                "left": 16723
+            }
+        },
+        "17": {
+            "id": 17,
+            "name": "17e",
+            "age": 38.856,
+            "area": 5.67,
+            "priceSquare": 8560,
+            "singles": 69945.19,
+            "married": 54306.64,
+            "retired": 25124.243,
+            "students": 13832.603,
+            "unemployment": 10293.666,
+            "income": 42580.059,
+            "tax": 5674.271,
+            "highDiploma": 54678.386,
+            "permanentResidence": 89280.992,
+            "secondResidence": 5493.928,
+            "owners": 31248.689,
+            "tenants": 52768.861,
+            "populationBase": {
+                "id": 17,
+                "all": 168454,
+                "plus15": 143250.343,
+                "activityAll": 119310.608,
+                "activityActive": 92866.008,
+                "noschool": 122094.164,
+                "accommodations": 104460.852
+            },
+            "sex": {
+                "id": 17,
+                "men": 77679.867,
+                "women": 90774.133
+            },
+            "politics": {
+                "id": 17,
+                "right": 43739,
+                "left": 31384
+            }
+        },
+        "18": {
+            "id": 18,
+            "name": "18e",
+            "age": 37.573,
+            "area": 6.01,
+            "priceSquare": 7340,
+            "singles": 95303.992,
+            "married": 53633.102,
+            "retired": 27057.532,
+            "students": 13555.071,
+            "unemployment": 15036.172,
+            "income": 23849.351,
+            "tax": 2089.506,
+            "highDiploma": 49085.56,
+            "permanentResidence": 106685.105,
+            "secondResidence": 4638.223,
+            "owners": 34958.276,
+            "tenants": 67474.082,
+            "populationBase": {
+                "id": 18,
+                "all": 200631,
+                "plus15": 170450.639,
+                "activityAll": 146656.475,
+                "activityActive": 114636.369,
+                "noschool": 147878.869,
+                "accommodations": 121035.889
+            },
+            "sex": {
+                "id": 18,
+                "men": 97252.931,
+                "women": 103378.069
+            },
+            "politics": {
+                "id": 18,
+                "right": 23469,
+                "left": 55569
+            }
+        },
+        "19": {
+            "id": 19,
+            "name": "19e",
+            "age": 37.126,
+            "area": 6.79,
+            "priceSquare": 6720,
+            "singles": 74635.645,
+            "married": 56459.639,
+            "retired": 25807.791,
+            "students": 14766.43,
+            "unemployment": 14862.298,
+            "income": 22094.862,
+            "tax": 1584.394,
+            "highDiploma": 34693.865,
+            "permanentResidence": 83962.191,
+            "secondResidence": 2680.44,
+            "owners": 24200.324,
+            "tenants": 57232.278,
+            "populationBase": {
+                "id": 19,
+                "all": 184787,
+                "plus15": 150815.027,
+                "activityAll": 129085.27,
+                "activityActive": 96881.598,
+                "noschool": 128189.649,
+                "accommodations": 92828.657
+            },
+            "sex": {
+                "id": 19,
+                "men": 89381.078,
+                "women": 95405.922
+            },
+            "politics": {
+                "id": 19,
+                "right": 24483,
+                "left": 51165
+            }
+        },
+        "20": {
+            "id": 20,
+            "name": "20e",
+            "age": 38.082,
+            "area": 5.98,
+            "priceSquare": 7210,
+            "singles": 85721.946,
+            "married": 55899.959,
+            "retired": 29255.051,
+            "students": 14238.294,
+            "unemployment": 14799.604,
+            "income": 22555.271,
+            "tax": 1691.374,
+            "highDiploma": 42175.91,
+            "permanentResidence": 95753.395,
+            "secondResidence": 2208.527,
+            "owners": 26569.453,
+            "tenants": 66063.1,
+            "populationBase": {
+                "id": 20,
+                "all": 197067,
+                "plus15": 164103.925,
+                "activityAll": 139505.236,
+                "activityActive": 107864.366,
+                "noschool": 141711.646,
+                "accommodations": 104357.392
+            },
+            "sex": {
+                "id": 20,
+                "men": 92830.889,
+                "women": 104236.111
+            },
+            "politics": {
+                "id": 20,
+                "right": 24299,
+                "left": 61947
+            }
+        },
+        "21": {
+            "id": 21,
+            "name": "Asnires-sur-Seine",
+            "age": 35.767,
+            "area": 4.82,
+            "priceSquare": 5000,
+            "singles": 27805.912,
+            "married": 28123.096,
+            "retired": 10580.47,
+            "students": 5096.422,
+            "unemployment": 4907.254,
+            "income": 29570.016,
+            "tax": 2490.019,
+            "highDiploma": 16120.575,
+            "permanentResidence": 35366.081,
+            "secondResidence": 1129.652,
+            "owners": 15076.164,
+            "tenants": 19499.074,
+            "populationBase": {
+                "id": 21,
+                "all": 81603,
+                "plus15": 64260.109,
+                "activityAll": 55160.156,
+                "activityActive": 43698.528,
+                "noschool": 56557.671,
+                "accommodations": 41248.438
+            },
+            "sex": {
+                "id": 21,
+                "men": 38775.86,
+                "women": 42827.14
+            },
+            "politics": {
+                "id": 21,
+                "right": 17029,
+                "left": 18655
+            }
+        },
+        "22": {
+            "id": 22,
+            "name": "Aubervilliers",
+            "age": 34.884,
+            "area": 5.76,
+            "priceSquare": 3100,
+            "singles": 24460.712,
+            "married": 26671.408,
+            "retired": 8828.96,
+            "students": 5302.755,
+            "unemployment": 7744.169,
+            "income": 14396.974,
+            "tax": 420.715,
+            "highDiploma": 3821.218,
+            "permanentResidence": 28780.548,
+            "secondResidence": 133.608,
+            "owners": 6902.356,
+            "tenants": 20818.211,
+            "populationBase": {
+                "id": 22,
+                "all": 74701,
+                "plus15": 58370.512,
+                "activityAll": 50986.407,
+                "activityActive": 35530.859,
+                "noschool": 50674.938,
+                "accommodations": 30501.91
+            },
+            "sex": {
+                "id": 22,
+                "men": 38170.847,
+                "women": 36530.153
+            },
+            "politics": {
+                "id": 22,
+                "right": 4939,
+                "left": 13238
+            }
+        },
+        "23": {
+            "id": 23,
+            "name": "Bagnolet",
+            "age": 36.706,
+            "area": 2.57,
+            "priceSquare": 3980,
+            "singles": 11327.056,
+            "married": 11782.023,
+            "retired": 5003.754,
+            "students": 2255.5,
+            "unemployment": 2940.34,
+            "income": 19169.355,
+            "tax": 942.112,
+            "highDiploma": 3137.437,
+            "permanentResidence": 13816.657,
+            "secondResidence": 185.814,
+            "owners": 4483.344,
+            "tenants": 9039.09,
+            "populationBase": {
+                "id": 23,
+                "all": 33839,
+                "plus15": 26845.84,
+                "activityAll": 22782.753,
+                "activityActive": 16820.96,
+                "noschool": 23499.135,
+                "accommodations": 14826.168
+            },
+            "sex": {
+                "id": 23,
+                "men": 16347.924,
+                "women": 17491.076
+            },
+            "politics": {
+                "id": 23,
+                "right": 3454,
+                "left": 9045
+            }
+        },
+        "24": {
+            "id": 24,
+            "name": "Bobigny",
+            "age": 33.619,
+            "area": 6.77,
+            "priceSquare": 2540,
+            "singles": 16163.708,
+            "married": 16977.473,
+            "retired": 5543.373,
+            "students": 4146.806,
+            "unemployment": 4085.36,
+            "income": 15137.999,
+            "tax": 386.878,
+            "highDiploma": 2409.002,
+            "permanentResidence": 16237.345,
+            "secondResidence": 69.854,
+            "owners": 5019.924,
+            "tenants": 10927.504,
+            "populationBase": {
+                "id": 24,
+                "all": 48503,
+                "plus15": 36925.024,
+                "activityAll": 32645.225,
+                "activityActive": 21982.749,
+                "noschool": 31127.769,
+                "accommodations": 16978.106
+            },
+            "sex": {
+                "id": 24,
+                "men": 23933.716,
+                "women": 24569.284
+            },
+            "politics": {
+                "id": 24,
+                "right": 3401,
+                "left": 11223
+            }
+        },
+        "25": {
+            "id": 25,
+            "name": "Boulogne-Billancourt",
+            "age": 39.434,
+            "area": 6.17,
+            "priceSquare": 7110,
+            "singles": 39400.962,
+            "married": 40286.738,
+            "retired": 19350.399,
+            "students": 7526.377,
+            "unemployment": 5406.691,
+            "income": 41471.058,
+            "tax": 4831.441,
+            "highDiploma": 33428.719,
+            "permanentResidence": 55200.711,
+            "secondResidence": 2338.097,
+            "owners": 23814.022,
+            "tenants": 29199.653,
+            "populationBase": {
+                "id": 25,
+                "all": 113085,
+                "plus15": 93465.8,
+                "activityAll": 75555.569,
+                "activityActive": 59768.712,
+                "noschool": 82491.646,
+                "accommodations": 61630.293
+            },
+            "sex": {
+                "id": 25,
+                "men": 52667.908,
+                "women": 60417.092
+            },
+            "politics": {
+                "id": 25,
+                "right": 34464,
+                "left": 20089
+            }
+        },
+        "26": {
+            "id": 26,
+            "name": "Charenton-le-Pont",
+            "age": 37.991,
+            "area": 1.85,
+            "priceSquare": 6370,
+            "singles": 10278.769,
+            "married": 9873.825,
+            "retired": 4517.814,
+            "students": 2076.422,
+            "unemployment": 1320.718,
+            "income": 34273.009,
+            "tax": 3282.365,
+            "highDiploma": 6694.96,
+            "permanentResidence": 13690.507,
+            "secondResidence": 489.186,
+            "owners": 5529.785,
+            "tenants": 7765.375,
+            "populationBase": {
+                "id": 26,
+                "all": 28844,
+                "plus15": 23507.199,
+                "activityAll": 19724.038,
+                "activityActive": 15648.131,
+                "noschool": 20562.498,
+                "accommodations": 15081.704
+            },
+            "sex": {
+                "id": 26,
+                "men": 13617.071,
+                "women": 15226.929
+            },
+            "politics": {
+                "id": 26,
+                "right": 7806,
+                "left": 7439
+            }
+        },
+        "27": {
+            "id": 27,
+            "name": "Chätillon",
+            "age": 37.702,
+            "area": 2.92,
+            "priceSquare": 5270,
+            "singles": 11126.531,
+            "married": 11334.799,
+            "retired": 4911.785,
+            "students": 1930.607,
+            "unemployment": 1367.65,
+            "income": 31841.136,
+            "tax": 2622.016,
+            "highDiploma": 6746.358,
+            "permanentResidence": 14353.58,
+            "secondResidence": 258.471,
+            "owners": 6777.982,
+            "tenants": 7322.502,
+            "populationBase": {
+                "id": 27,
+                "all": 32448,
+                "plus15": 26247.718,
+                "activityAll": 22089.565,
+                "activityActive": 18065.308,
+                "noschool": 23343.454,
+                "accommodations": 15550.473
+            },
+            "sex": {
+                "id": 27,
+                "men": 15373.527,
+                "women": 17074.473
+            },
+            "politics": {
+                "id": 27,
+                "right": 7722,
+                "left": 9603
+            }
+        },
+        "28": {
+            "id": 28,
+            "name": "Clichy",
+            "age": 35.851,
+            "area": 3.08,
+            "priceSquare": 5040,
+            "singles": 23420.341,
+            "married": 17927.787,
+            "retired": 7562.583,
+            "students": 3751.866,
+            "unemployment": 4384.797,
+            "income": 21304.625,
+            "tax": 1329.752,
+            "highDiploma": 8801.567,
+            "permanentResidence": 27450.82,
+            "secondResidence": 571.889,
+            "owners": 6878.029,
+            "tenants": 19902.816,
+            "populationBase": {
+                "id": 28,
+                "all": 58200,
+                "plus15": 47476.227,
+                "activityAll": 41373.126,
+                "activityActive": 32687.688,
+                "noschool": 41437.073,
+                "accommodations": 30485.381
+            },
+            "sex": {
+                "id": 28,
+                "men": 28383.574,
+                "women": 29816.426
+            },
+            "politics": {
+                "id": 28,
+                "right": 7343,
+                "left": 14867
+            }
+        },
+        "29": {
+            "id": 29,
+            "name": "Courbevoie",
+            "age": 36.549,
+            "area": 4.17,
+            "priceSquare": 5590,
+            "singles": 31555.718,
+            "married": 29991.04,
+            "retired": 11314.916,
+            "students": 6291.28,
+            "unemployment": 4302.754,
+            "income": 34801.021,
+            "tax": 3355.868,
+            "highDiploma": 23739.945,
+            "permanentResidence": 40928.262,
+            "secondResidence": 2275.244,
+            "owners": 16750.613,
+            "tenants": 23048.008,
+            "populationBase": {
+                "id": 29,
+                "all": 86945,
+                "plus15": 70788.057,
+                "activityAll": 60823.289,
+                "activityActive": 48941.568,
+                "noschool": 61661.674,
+                "accommodations": 46076.394
+            },
+            "sex": {
+                "id": 29,
+                "men": 41571.901,
+                "women": 45373.099
+            },
+            "politics": {
+                "id": 29,
+                "right": 21894,
+                "left": 17476
+            }
+        },
+        "30": {
+            "id": 30,
+            "name": "Créteil",
+            "age": 35.496,
+            "area": 11.46,
+            "priceSquare": 3380,
+            "singles": 30835.194,
+            "married": 29574.704,
+            "retired": 11865.384,
+            "students": 7490.997,
+            "unemployment": 5899.452,
+            "income": 22191.319,
+            "tax": 1241.302,
+            "highDiploma": 10386.635,
+            "permanentResidence": 35438.417,
+            "secondResidence": 336.507,
+            "owners": 12809.676,
+            "tenants": 21671.735,
+            "populationBase": {
+                "id": 30,
+                "all": 89359,
+                "plus15": 70076.021,
+                "activityAll": 60412.905,
+                "activityActive": 44501.242,
+                "noschool": 59605.244,
+                "accommodations": 36847.658
+            },
+            "sex": {
+                "id": 30,
+                "men": 42420.073,
+                "women": 46938.927
+            },
+            "politics": {
+                "id": 30,
+                "right": 14256,
+                "left": 22894
+            }
+        },
+        "31": {
+            "id": 31,
+            "name": "Gennevilliers",
+            "age": 36.83,
+            "area": 11.64,
+            "priceSquare": 3000,
+            "singles": 13348.91,
+            "married": 14818.299,
+            "retired": 6589.148,
+            "students": 2987.922,
+            "unemployment": 3143.829,
+            "income": 17089.238,
+            "tax": 581.668,
+            "highDiploma": 2253.516,
+            "permanentResidence": 16148.598,
+            "secondResidence": 115.826,
+            "owners": 3030.916,
+            "tenants": 12808.057,
+            "populationBase": {
+                "id": 31,
+                "all": 41400,
+                "plus15": 32718.7,
+                "activityAll": 27429.661,
+                "activityActive": 19227.64,
+                "noschool": 28619.499,
+                "accommodations": 17100.54
+            },
+            "sex": {
+                "id": 31,
+                "men": 20125.403,
+                "women": 21274.597
+            },
+            "politics": {
+                "id": 31,
+                "right": 3612,
+                "left": 11850
+            }
+        },
+        "32": {
+            "id": 32,
+            "name": "Issy-les-Moulineaux",
+            "age": 37.178,
+            "area": 4.25,
+            "priceSquare": 6510,
+            "singles": 24086.95,
+            "married": 21556.969,
+            "retired": 9075.001,
+            "students": 4832.358,
+            "unemployment": 2727.731,
+            "income": 35488.901,
+            "tax": 3414.834,
+            "highDiploma": 17519.909,
+            "permanentResidence": 29568.824,
+            "secondResidence": 1115.185,
+            "owners": 11886.856,
+            "tenants": 16713.252,
+            "populationBase": {
+                "id": 32,
+                "all": 64027,
+                "plus15": 52531.238,
+                "activityAll": 44923.462,
+                "activityActive": 35976.207,
+                "noschool": 45631.297,
+                "accommodations": 32582.039
+            },
+            "sex": {
+                "id": 32,
+                "men": 30875.859,
+                "women": 33151.141
+            },
+            "politics": {
+                "id": 32,
+                "right": 15609,
+                "left": 16686
+            }
+        },
+        "33": {
+            "id": 33,
+            "name": "Ivry-sur-Seine",
+            "age": 37.031,
+            "area": 6.1,
+            "priceSquare": 4380,
+            "singles": 22247.966,
+            "married": 18014.346,
+            "retired": 8846.147,
+            "students": 4809.791,
+            "unemployment": 4396.186,
+            "income": 19384.582,
+            "tax": 1019.257,
+            "highDiploma": 6630.553,
+            "permanentResidence": 25437.971,
+            "secondResidence": 394.025,
+            "owners": 7387.212,
+            "tenants": 17321.822,
+            "populationBase": {
+                "id": 33,
+                "all": 57254,
+                "plus15": 46743.205,
+                "activityAll": 39628.628,
+                "activityActive": 29259.085,
+                "noschool": 39631.199,
+                "accommodations": 27239.5
+            },
+            "sex": {
+                "id": 33,
+                "men": 28414.886,
+                "women": 28839.114
+            },
+            "politics": {
+                "id": 33,
+                "right": 5563,
+                "left": 15534
+            }
+        },
+        "34": {
+            "id": 34,
+            "name": "La Courneuve",
+            "age": 33.119,
+            "area": 7.52,
+            "priceSquare": 2650,
+            "singles": 12804.736,
+            "married": 12734.707,
+            "retired": 4014.795,
+            "students": 3128.738,
+            "unemployment": 4098.435,
+            "income": 14056.146,
+            "tax": 296.334,
+            "highDiploma": 1426.326,
+            "permanentResidence": 13107.364,
+            "secondResidence": 82.311,
+            "owners": 3299.905,
+            "tenants": 9530.331,
+            "populationBase": {
+                "id": 34,
+                "all": 37700,
+                "plus15": 28734.217,
+                "activityAll": 25579.195,
+                "activityActive": 17118.304,
+                "noschool": 24484.064,
+                "accommodations": 13883.666
+            },
+            "sex": {
+                "id": 34,
+                "men": 18780.763,
+                "women": 18919.237
+            },
+            "politics": {
+                "id": 34,
+                "right": 2593,
+                "left": 7906
+            }
+        },
+        "35": {
+            "id": 35,
+            "name": "Le Kremlin-Bicêtre",
+            "age": 35.781,
+            "area": 1.54,
+            "priceSquare": 4850,
+            "singles": 10322.798,
+            "married": 8176.581,
+            "retired": 3389.368,
+            "students": 2425.346,
+            "unemployment": 1713.561,
+            "income": 24543.597,
+            "tax": 1665.911,
+            "highDiploma": 4152.302,
+            "permanentResidence": 11945.284,
+            "secondResidence": 171.361,
+            "owners": 3398.439,
+            "tenants": 8105.447,
+            "populationBase": {
+                "id": 35,
+                "all": 26368,
+                "plus15": 21500.648,
+                "activityAll": 18677.779,
+                "activityActive": 14252.554,
+                "noschool": 17802.162,
+                "accommodations": 12906.94
+            },
+            "sex": {
+                "id": 35,
+                "men": 12906.282,
+                "women": 13461.718
+            },
+            "politics": {
+                "id": 35,
+                "right": 3783,
+                "left": 6798
+            }
+        },
+        "36": {
+            "id": 36,
+            "name": "Les Lilas",
+            "age": 38.468,
+            "area": 1.26,
+            "priceSquare": 5560,
+            "singles": 7784.814,
+            "married": 7351.89,
+            "retired": 3874.46,
+            "students": 1625.905,
+            "unemployment": 1583.335,
+            "income": 25723.439,
+            "tax": 1830.221,
+            "highDiploma": 3647.28,
+            "permanentResidence": 10406.439,
+            "secondResidence": 193.959,
+            "owners": 4266.639,
+            "tenants": 5886.97,
+            "populationBase": {
+                "id": 36,
+                "all": 22439,
+                "plus15": 18210.024,
+                "activityAll": 15027.867,
+                "activityActive": 11468.699,
+                "noschool": 15915.014,
+                "accommodations": 11306.772
+            },
+            "sex": {
+                "id": 36,
+                "men": 10348.118,
+                "women": 12090.882
+            },
+            "politics": {
+                "id": 36,
+                "right": 4153,
+                "left": 6497
+            }
+        },
+        "37": {
+            "id": 37,
+            "name": "Levallois-Perret",
+            "age": 37.099,
+            "area": 2.41,
+            "priceSquare": 7610,
+            "singles": 23113.673,
+            "married": 21950.147,
+            "retired": 9120.384,
+            "students": 4331.065,
+            "unemployment": 3025.23,
+            "income": 38978.954,
+            "tax": 4307.278,
+            "highDiploma": 18643.906,
+            "permanentResidence": 31018.503,
+            "secondResidence": 1083.712,
+            "owners": 11810.634,
+            "tenants": 18222.241,
+            "populationBase": {
+                "id": 37,
+                "all": 63436,
+                "plus15": 51842.357,
+                "activityAll": 44084.22,
+                "activityActive": 35389.604,
+                "noschool": 45654.847,
+                "accommodations": 34246.859
+            },
+            "sex": {
+                "id": 37,
+                "men": 29746.039,
+                "women": 33689.961
+            },
+            "politics": {
+                "id": 37,
+                "right": 20359,
+                "left": 11791
+            }
+        },
+        "38": {
+            "id": 38,
+            "name": "Maisons-Alfort",
+            "age": 38.92,
+            "area": 5.35,
+            "priceSquare": 4220,
+            "singles": 18842.074,
+            "married": 18411.196,
+            "retired": 9572.086,
+            "students": 3930.917,
+            "unemployment": 2591.858,
+            "income": 27072.688,
+            "tax": 1893.927,
+            "highDiploma": 7967.694,
+            "permanentResidence": 24634.885,
+            "secondResidence": 625.54,
+            "owners": 10266.318,
+            "tenants": 12860.67,
+            "populationBase": {
+                "id": 38,
+                "all": 52619,
+                "plus15": 43895.977,
+                "activityAll": 36361.832,
+                "activityActive": 27981.057,
+                "noschool": 38332.002,
+                "accommodations": 26657.872
+            },
+            "sex": {
+                "id": 38,
+                "men": 24662.811,
+                "women": 27956.189
+            },
+            "politics": {
+                "id": 38,
+                "right": 13022,
+                "left": 13482
+            }
+        },
+        "39": {
+            "id": 39,
+            "name": "Malakoff",
+            "age": 37.331,
+            "area": 2.07,
+            "priceSquare": 5540,
+            "singles": 11905.302,
+            "married": 9845.508,
+            "retired": 4750.425,
+            "students": 2224.635,
+            "unemployment": 1731.253,
+            "income": 25307.159,
+            "tax": 1725.58,
+            "highDiploma": 4847.757,
+            "permanentResidence": 14319.095,
+            "secondResidence": 246.828,
+            "owners": 4497.291,
+            "tenants": 9372.758,
+            "populationBase": {
+                "id": 39,
+                "all": 30988,
+                "plus15": 25294.19,
+                "activityAll": 21403.699,
+                "activityActive": 16887.325,
+                "noschool": 21873.772,
+                "accommodations": 15365.105
+            },
+            "sex": {
+                "id": 39,
+                "men": 14832.025,
+                "women": 16155.975
+            },
+            "politics": {
+                "id": 39,
+                "right": 4241,
+                "left": 10234
+            }
+        },
+        "40": {
+            "id": 40,
+            "name": "Montreuil",
+            "age": 36.294,
+            "area": 8.92,
+            "priceSquare": 4120,
+            "singles": 38691.601,
+            "married": 32489.708,
+            "retired": 13682.024,
+            "students": 6786.087,
+            "unemployment": 9260.165,
+            "income": 19749.651,
+            "tax": 1050.442,
+            "highDiploma": 12952.743,
+            "permanentResidence": 42654.337,
+            "secondResidence": 418.04,
+            "owners": 15140.99,
+            "tenants": 26278.969,
+            "populationBase": {
+                "id": 40,
+                "all": 103192,
+                "plus15": 81969.266,
+                "activityAll": 70959.814,
+                "activityActive": 54245.214,
+                "noschool": 71805.399,
+                "accommodations": 45491.181
+            },
+            "sex": {
+                "id": 40,
+                "men": 51339.504,
+                "women": 51852.496
+            },
+            "politics": {
+                "id": 40,
+                "right": 9512,
+                "left": 29856
+            }
+        },
+        "41": {
+            "id": 41,
+            "name": "Montrouge",
+            "age": 37.781,
+            "area": 2.07,
+            "priceSquare": 6060,
+            "singles": 19794.796,
+            "married": 14987,
+            "retired": 7407.274,
+            "students": 3410.412,
+            "unemployment": 2430.178,
+            "income": 30230.892,
+            "tax": 2646.389,
+            "highDiploma": 12066.796,
+            "permanentResidence": 23980.219,
+            "secondResidence": 569.676,
+            "owners": 9580.1,
+            "tenants": 13630.117,
+            "populationBase": {
+                "id": 41,
+                "all": 48410,
+                "plus15": 40136.745,
+                "activityAll": 33773.477,
+                "activityActive": 27382.145,
+                "noschool": 35082.48,
+                "accommodations": 25997.339
+            },
+            "sex": {
+                "id": 41,
+                "men": 22624.107,
+                "women": 25785.893
+            },
+            "politics": {
+                "id": 41,
+                "right": 9297,
+                "left": 12961
+            }
+        },
+        "42": {
+            "id": 42,
+            "name": "Neuilly-sur-Seine",
+            "age": 42.295,
+            "area": 3.73,
+            "priceSquare": 8980,
+            "singles": 17491.821,
+            "married": 24399.087,
+            "retired": 11664.387,
+            "students": 4860.582,
+            "unemployment": 2064.714,
+            "income": 83834.934,
+            "tax": 13172.776,
+            "highDiploma": 22297.915,
+            "permanentResidence": 29549.92,
+            "secondResidence": 2943.87,
+            "owners": 14292.405,
+            "tenants": 13264.763,
+            "populationBase": {
+                "id": 42,
+                "all": 60501,
+                "plus15": 50109.481,
+                "activityAll": 37667.712,
+                "activityActive": 27385.595,
+                "noschool": 43468.822,
+                "accommodations": 35052.371
+            },
+            "sex": {
+                "id": 42,
+                "men": 27315.592,
+                "women": 33185.408
+            },
+            "politics": {
+                "id": 42,
+                "right": 26959,
+                "left": 5058
+            }
+        },
+        "43": {
+            "id": 43,
+            "name": "Pantin",
+            "age": 36.002,
+            "area": 5.01,
+            "priceSquare": 4180,
+            "singles": 18211.731,
+            "married": 17414.144,
+            "retired": 6797.488,
+            "students": 3467.019,
+            "unemployment": 4435.317,
+            "income": 18470.079,
+            "tax": 874.139,
+            "highDiploma": 5520.249,
+            "permanentResidence": 22392.608,
+            "secondResidence": 388.415,
+            "owners": 6758.743,
+            "tenants": 15071.837,
+            "populationBase": {
+                "id": 43,
+                "all": 52161,
+                "plus15": 41324.399,
+                "activityAll": 35691.365,
+                "activityActive": 26564.824,
+                "noschool": 36167.946,
+                "accommodations": 24206.895
+            },
+            "sex": {
+                "id": 43,
+                "men": 25265.628,
+                "women": 26895.372
+            },
+            "politics": {
+                "id": 43,
+                "right": 5082,
+                "left": 12673
+            }
+        },
+        "44": {
+            "id": 44,
+            "name": "Puteaux",
+            "age": 36.373,
+            "area": 3.19,
+            "priceSquare": 5690,
+            "singles": 16481.235,
+            "married": 15161.916,
+            "retired": 5948.742,
+            "students": 2839.46,
+            "unemployment": 2389.863,
+            "income": 30183.637,
+            "tax": 2616.402,
+            "highDiploma": 10926.762,
+            "permanentResidence": 21094.212,
+            "secondResidence": 704.459,
+            "owners": 7429.41,
+            "tenants": 13083.033,
+            "populationBase": {
+                "id": 44,
+                "all": 44892,
+                "plus15": 36386.413,
+                "activityAll": 31403.397,
+                "activityActive": 25322.095,
+                "noschool": 32077.916,
+                "accommodations": 23231.919
+            },
+            "sex": {
+                "id": 44,
+                "men": 22076.489,
+                "women": 22815.511
+            },
+            "politics": {
+                "id": 44,
+                "right": 11780,
+                "left": 10474
+            }
+        },
+        "45": {
+            "id": 45,
+            "name": "Saint-Denis",
+            "age": 33.259,
+            "area": 12.36,
+            "priceSquare": 3170,
+            "singles": 38531.255,
+            "married": 33346.64,
+            "retired": 10768.122,
+            "students": 7681.039,
+            "unemployment": 11618.353,
+            "income": 16330.221,
+            "tax": 597.968,
+            "highDiploma": 7610.147,
+            "permanentResidence": 40729.078,
+            "secondResidence": 383.748,
+            "owners": 8826.463,
+            "tenants": 30629.517,
+            "populationBase": {
+                "id": 45,
+                "all": 105749,
+                "plus15": 80762.221,
+                "activityAll": 71973.329,
+                "activityActive": 52593.053,
+                "noschool": 69008.57,
+                "accommodations": 43538.356
+            },
+            "sex": {
+                "id": 45,
+                "men": 53085.778,
+                "women": 52663.222
+            },
+            "politics": {
+                "id": 45,
+                "right": 6346,
+                "left": 22216
+            }
+        },
+        "46": {
+            "id": 46,
+            "name": "Saint-Mandé",
+            "age": 39.19,
+            "area": 0.92,
+            "priceSquare": 7110,
+            "singles": 7651.123,
+            "married": 7994.484,
+            "retired": 3675.178,
+            "students": 1696.339,
+            "unemployment": 1019.166,
+            "income": 46514.241,
+            "tax": 5754.981,
+            "highDiploma": 6015.68,
+            "permanentResidence": 10465.446,
+            "secondResidence": 288.197,
+            "owners": 4982.721,
+            "tenants": 4989.015,
+            "populationBase": {
+                "id": 46,
+                "all": 22627,
+                "plus15": 18441.931,
+                "activityAll": 15004.32,
+                "activityActive": 11740.464,
+                "noschool": 16053.294,
+                "accommodations": 11463.103
+            },
+            "sex": {
+                "id": 46,
+                "men": 10415.387,
+                "women": 12211.613
+            },
+            "politics": {
+                "id": 46,
+                "right": 7083,
+                "left": 4495
+            }
+        },
+        "47": {
+            "id": 47,
+            "name": "Saint-Ouen",
+            "age": 35.242,
+            "area": 4.31,
+            "priceSquare": 4050,
+            "singles": 18337.772,
+            "married": 14064.235,
+            "retired": 5561.589,
+            "students": 3284.589,
+            "unemployment": 4330.205,
+            "income": 17761.754,
+            "tax": 854.299,
+            "highDiploma": 4315.276,
+            "permanentResidence": 21060.587,
+            "secondResidence": 254.515,
+            "owners": 4184.537,
+            "tenants": 16368.944,
+            "populationBase": {
+                "id": 47,
+                "all": 46510,
+                "plus15": 37304.111,
+                "activityAll": 32801.321,
+                "activityActive": 24480.688,
+                "noschool": 32304.882,
+                "accommodations": 22826.279
+            },
+            "sex": {
+                "id": 47,
+                "men": 23127.367,
+                "women": 23382.633
+            },
+            "politics": {
+                "id": 47,
+                "right": 4028,
+                "left": 11246
+            }
+        },
+        "48": {
+            "id": 48,
+            "name": "Vanves",
+            "age": 38.829,
+            "area": 1.56,
+            "priceSquare": 5550,
+            "singles": 10076.863,
+            "married": 8874.429,
+            "retired": 4537.881,
+            "students": 2261.428,
+            "unemployment": 1063.322,
+            "income": 32868.661,
+            "tax": 2918.715,
+            "highDiploma": 5882.701,
+            "permanentResidence": 12529.13,
+            "secondResidence": 484.856,
+            "owners": 5379.372,
+            "tenants": 6669.427,
+            "populationBase": {
+                "id": 48,
+                "all": 26505,
+                "plus15": 22092.076,
+                "activityAll": 18470.51,
+                "activityActive": 14231.41,
+                "noschool": 18905.591,
+                "accommodations": 13957.19
+            },
+            "sex": {
+                "id": 48,
+                "men": 12405.28,
+                "women": 14099.72
+            },
+            "politics": {
+                "id": 48,
+                "right": 6258,
+                "left": 8107
+            }
+        },
+        "49": {
+            "id": 49,
+            "name": "Villejuif",
+            "age": 36.46,
+            "area": 5.34,
+            "priceSquare": 4230,
+            "singles": 20297.124,
+            "married": 18043.195,
+            "retired": 8062.093,
+            "students": 4677.071,
+            "unemployment": 3610.061,
+            "income": 21924.731,
+            "tax": 1211.532,
+            "highDiploma": 6028.964,
+            "permanentResidence": 23102.927,
+            "secondResidence": 127.397,
+            "owners": 8340.501,
+            "tenants": 14127.248,
+            "populationBase": {
+                "id": 49,
+                "all": 55250,
+                "plus15": 44372.416,
+                "activityAll": 37671.096,
+                "activityActive": 27678.178,
+                "noschool": 37631.927,
+                "accommodations": 24358.598
+            },
+            "sex": {
+                "id": 49,
+                "men": 26721.013,
+                "women": 28528.987
+            },
+            "politics": {
+                "id": 49,
+                "right": 6574,
+                "left": 14165
+            }
+        },
+        "50": {
+            "id": 50,
+            "name": "Vincennes",
+            "age": 38.494,
+            "area": 1.91,
+            "priceSquare": 6790,
+            "singles": 19207.472,
+            "married": 16111.126,
+            "retired": 7818.469,
+            "students": 3159.576,
+            "unemployment": 2067.201,
+            "income": 35414.45,
+            "tax": 3543.139,
+            "highDiploma": 14864.816,
+            "permanentResidence": 24523.418,
+            "secondResidence": 808.933,
+            "owners": 11792.929,
+            "tenants": 11801.984,
+            "populationBase": {
+                "id": 50,
+                "all": 48689,
+                "plus15": 40667.8,
+                "activityAll": 33948.012,
+                "activityActive": 27730.254,
+                "noschool": 35800.093,
+                "accommodations": 27102.496
+            },
+            "sex": {
+                "id": 50,
+                "men": 22684.096,
+                "women": 26004.904
+            },
+            "politics": {
+                "id": 50,
+                "right": 12722,
+                "left": 12856
+            }
+        }
+    },
+    "lines": {
+        "1": {
+            "name": "Ligne 1",
+            "nbstations": 25,
+            "stations": {
+                "1": {
+                    "name": "La DÃ©fense",
+                    "districts": "44",
+                    "connections": "1",
+                    "trafic": 13853216
+                },
+                "2": {
+                    "name": "Esplanade de La DÃ©fense",
+                    "districts": "44,29",
+                    "connections": "1",
+                    "trafic": 8721277
+                },
+                "3": {
+                    "name": "Pont de Neuilly",
+                    "districts": "42",
+                    "connections": "1",
+                    "trafic": 6794402
+                },
+                "4": {
+                    "name": "Les Sablons",
+                    "districts": "42",
+                    "connections": "1",
+                    "trafic": 5430088
+                },
+                "5": {
+                    "name": "Porte Maillot",
+                    "districts": "16,17",
+                    "connections": "1",
+                    "trafic": 8852329
+                },
+                "6": {
+                    "name": "Argentine",
+                    "districts": "16,17",
+                    "connections": "1",
+                    "trafic": 2820883
+                },
+                "7": {
+                    "name": "Charles de Gaulle - Ã‰toile",
+                    "districts": "8,16,17",
+                    "connections": "1,2,6",
+                    "trafic": 8980015
+                },
+                "8": {
+                    "name": "George V",
+                    "districts": "8",
+                    "connections": "1",
+                    "trafic": 6192199
+                },
+                "9": {
+                    "name": "Franklin D. Roosevelt",
+                    "districts": "8",
+                    "connections": "1,9",
+                    "trafic": 12640577
+                },
+                "10": {
+                    "name": "Champs-Ã‰lysÃ©es - Clemenceau",
+                    "districts": "8",
+                    "connections": "1,13",
+                    "trafic": 4502691
+                },
+                "11": {
+                    "name": "Concorde",
+                    "districts": "1,8",
+                    "connections": "1,8,12",
+                    "trafic": 6866631
+                },
+                "12": {
+                    "name": "Tuileries",
+                    "districts": "1",
+                    "connections": "1",
+                    "trafic": 2473945
+                },
+                "13": {
+                    "name": "Palais Royal - MusÃ©e du Louvre",
+                    "districts": "1",
+                    "connections": "1,7",
+                    "trafic": 9559535
+                },
+                "14": {
+                    "name": "Louvre - Rivoli",
+                    "districts": "1",
+                    "connections": "1",
+                    "trafic": 2582023
+                },
+                "15": {
+                    "name": "ChÃ¢telet",
+                    "districts": "1,4",
+                    "connections": "1,4,7,11,14",
+                    "trafic": 14440964
+                },
+                "16": {
+                    "name": "HÃ´tel de Ville",
+                    "districts": "4",
+                    "connections": "1,11",
+                    "trafic": 12760823
+                },
+                "17": {
+                    "name": "Saint-Paul",
+                    "districts": "4",
+                    "connections": "1",
+                    "trafic": 6265848
+                },
+                "18": {
+                    "name": "Bastille",
+                    "districts": "4,11,12",
+                    "connections": "1,5,8",
+                    "trafic": 12517181
+                },
+                "19": {
+                    "name": "Gare de Lyon",
+                    "districts": "12",
+                    "connections": "1,14",
+                    "trafic": 34523049
+                },
+                "20": {
+                    "name": "Reuilly - Diderot",
+                    "districts": "12",
+                    "connections": "1,8",
+                    "trafic": 5451933
+                },
+                "21": {
+                    "name": "Nation",
+                    "districts": "11,12",
+                    "connections": "1,2,6,9",
+                    "trafic": 9481963
+                },
+                "22": {
+                    "name": "Porte de Vincennes",
+                    "districts": "12,20",
+                    "connections": "1",
+                    "trafic": 4363767
+                },
+                "23": {
+                    "name": "Saint-MandÃ©",
+                    "districts": "46",
+                    "connections": "1",
+                    "trafic": 5973612
+                },
+                "24": {
+                    "name": "BÃ©rault",
+                    "districts": "46,50",
+                    "connections": "1",
+                    "trafic": 2531531
+                },
+                "25": {
+                    "name": "ChÃ¢teau de Vincennes",
+                    "districts": "12,50",
+                    "connections": "1",
+                    "trafic": 4858849
+                }
+            }
+        },
+        "2": {
+            "name": "Ligne 2",
+            "nbstations": 25,
+            "stations": {
+                "1": {
+                    "name": "Porte Dauphine",
+                    "districts": "16",
+                    "connections": "2",
+                    "trafic": 2840152
+                },
+                "2": {
+                    "name": "Victor Hugo",
+                    "districts": "16",
+                    "connections": "2",
+                    "trafic": 3966843
+                },
+                "3": {
+                    "name": "Charles de Gaulle-Ã‰toile",
+                    "districts": "8,16,17",
+                    "connections": "1,2,6",
+                    "trafic": 8980015
+                },
+                "4": {
+                    "name": "Ternes",
+                    "districts": "8,17",
+                    "connections": "2",
+                    "trafic": 3930362
+                },
+                "5": {
+                    "name": "Courcelles",
+                    "districts": "8,17",
+                    "connections": "2",
+                    "trafic": 2685096
+                },
+                "6": {
+                    "name": "Monceau",
+                    "districts": "8,17",
+                    "connections": "2",
+                    "trafic": 1605664
+                },
+                "7": {
+                    "name": "Villiers",
+                    "districts": "8,17",
+                    "connections": "2,3",
+                    "trafic": 6193182
+                },
+                "8": {
+                    "name": "Rome",
+                    "districts": "8,17",
+                    "connections": "2",
+                    "trafic": 2747395
+                },
+                "9": {
+                    "name": "Place de Clichy",
+                    "districts": "8,9,17,18",
+                    "connections": "2,13",
+                    "trafic": 9255747
+                },
+                "10": {
+                    "name": "Blanche",
+                    "districts": "9,18",
+                    "connections": "2",
+                    "trafic": 4252071
+                },
+                "11": {
+                    "name": "Pigalle",
+                    "districts": "9,18",
+                    "connections": "2,12",
+                    "trafic": 6172069
+                },
+                "12": {
+                    "name": "Anvers",
+                    "districts": "9,18",
+                    "connections": "2",
+                    "trafic": 6667509
+                },
+                "13": {
+                    "name": "BarbÃ¨s-Rochechouart",
+                    "districts": "9,10,18",
+                    "connections": "2,4",
+                    "trafic": 9323474
+                },
+                "14": {
+                    "name": "La chapelle",
+                    "districts": "10,18",
+                    "connections": "2,4,5",
+                    "trafic": 6903632
+                },
+                "15": {
+                    "name": "Stalingrad",
+                    "districts": "10,19",
+                    "connections": "2,5,7",
+                    "trafic": 6906194
+                },
+                "16": {
+                    "name": "JaurÃ¨s",
+                    "districts": "10,19",
+                    "connections": "2,5,7b",
+                    "trafic": 6046012
+                },
+                "17": {
+                    "name": "Colonel Fabien",
+                    "districts": "10,19",
+                    "connections": "2",
+                    "trafic": 4554566
+                },
+                "18": {
+                    "name": "Belleville",
+                    "districts": "10,11,19,20",
+                    "connections": "2,11",
+                    "trafic": 11794952
+                },
+                "19": {
+                    "name": "Couronnes",
+                    "districts": "11,20",
+                    "connections": "2",
+                    "trafic": 3324335
+                },
+                "20": {
+                    "name": "MÃ©nilmontant",
+                    "districts": "11,20",
+                    "connections": "2",
+                    "trafic": 4294888
+                },
+                "21": {
+                    "name": "PÃ¨re Lachaise",
+                    "districts": "11,20",
+                    "connections": "2,3",
+                    "trafic": 4880201
+                },
+                "22": {
+                    "name": "Philippe Auguste",
+                    "districts": "11,20",
+                    "connections": "2",
+                    "trafic": 1813811
+                },
+                "23": {
+                    "name": "Alexandre Dumas",
+                    "districts": "11,20",
+                    "connections": "2",
+                    "trafic": 3926266
+                },
+                "24": {
+                    "name": "Avron",
+                    "districts": "11,20",
+                    "connections": "2",
+                    "trafic": 1922250
+                },
+                "25": {
+                    "name": "Nation",
+                    "districts": "11,12",
+                    "connections": "1,2,6,9",
+                    "trafic": 9481963
+                }
+            }
+        },
+        "3": {
+            "name": "Ligne 3",
+            "nbstations": 25,
+            "stations": {
+                "1": {
+                    "name": "Pont de Levallois-BÃ©con",
+                    "districts": "37",
+                    "connections": "3",
+                    "trafic": 5085695
+                },
+                "2": {
+                    "name": "Anatole France",
+                    "districts": "37",
+                    "connections": "3",
+                    "trafic": 3702732
+                },
+                "3": {
+                    "name": "Louise Michel",
+                    "districts": "37",
+                    "connections": "3",
+                    "trafic": 3240270
+                },
+                "4": {
+                    "name": "Porte de Champerret",
+                    "districts": "17",
+                    "connections": "3",
+                    "trafic": 3559682
+                },
+                "5": {
+                    "name": "Pereire",
+                    "districts": "17",
+                    "connections": "3",
+                    "trafic": 4678888
+                },
+                "6": {
+                    "name": "Wagram",
+                    "districts": "17",
+                    "connections": "3",
+                    "trafic": 2575735
+                },
+                "7": {
+                    "name": "Malesherbes",
+                    "districts": "17",
+                    "connections": "3",
+                    "trafic": 2546859
+                },
+                "8": {
+                    "name": "Villiers",
+                    "districts": "8,17",
+                    "connections": "2,3",
+                    "trafic": 6193182
+                },
+                "9": {
+                    "name": "Europe",
+                    "districts": "8",
+                    "connections": "3",
+                    "trafic": 1536565
+                },
+                "10": {
+                    "name": "Saint-Lazare",
+                    "districts": "8,9",
+                    "connections": "3,9,12,13,14",
+                    "trafic": 46790941
+                },
+                "11": {
+                    "name": "Havre - Caumartin",
+                    "districts": "9",
+                    "connections": "3,9",
+                    "trafic": 843415
+                },
+                "12": {
+                    "name": "OpÃ©ra",
+                    "districts": "2,9",
+                    "connections": "3,7,8",
+                    "trafic": 12389715
+                },
+                "13": {
+                    "name": "Quatres - Septembre",
+                    "districts": "2",
+                    "connections": "3",
+                    "trafic": 1751431
+                },
+                "14": {
+                    "name": "Bourse",
+                    "districts": "2",
+                    "connections": "3",
+                    "trafic": 3350796
+                },
+                "15": {
+                    "name": "Sentier",
+                    "districts": "2",
+                    "connections": "3",
+                    "trafic": 3318660
+                },
+                "16": {
+                    "name": "RÃ©aumur - SÃ©bastopol",
+                    "districts": "2,3",
+                    "connections": "3,4",
+                    "trafic": 5860077
+                },
+                "17": {
+                    "name": "Arts et MÃ©tiers",
+                    "districts": "3",
+                    "connections": "3,11",
+                    "trafic": 3859066
+                },
+                "18": {
+                    "name": "Temple",
+                    "districts": "3",
+                    "connections": "3",
+                    "trafic": 1268036
+                },
+                "19": {
+                    "name": "RÃ©publique",
+                    "districts": "3,10,11",
+                    "connections": "3,5,8,9,11",
+                    "trafic": 17095806
+                },
+                "20": {
+                    "name": "Parmentier",
+                    "districts": "11",
+                    "connections": "3",
+                    "trafic": 3357432
+                },
+                "21": {
+                    "name": "Rue Saint-Maur",
+                    "districts": "11",
+                    "connections": "3",
+                    "trafic": 2846171
+                },
+                "22": {
+                    "name": "PÃ¨re Lachaise",
+                    "districts": "11,20",
+                    "connections": "2,3",
+                    "trafic": 4880201
+                },
+                "23": {
+                    "name": "Gambetta",
+                    "districts": "20",
+                    "connections": "3,3b",
+                    "trafic": 7576845
+                },
+                "24": {
+                    "name": "Porte de Bagnolet",
+                    "districts": "20",
+                    "connections": "3",
+                    "trafic": 4751655
+                },
+                "25": {
+                    "name": "Gallieni",
+                    "districts": "23",
+                    "connections": "3",
+                    "trafic": 6314009
+                }
+            }
+        },
+        "4": {
+            "name": "Ligne 3 bis",
+            "nbstations": 4,
+            "stations": {
+                "1": {
+                    "name": "Gambetta",
+                    "districts": "20",
+                    "connections": "3,3b",
+                    "trafic": 7576845
+                },
+                "2": {
+                    "name": "Pelleport",
+                    "districts": "20",
+                    "connections": "3b",
+                    "trafic": 364642
+                },
+                "3": {
+                    "name": "Saint-Fargau",
+                    "districts": "20",
+                    "connections": "3b",
+                    "trafic": 979912
+                },
+                "4": {
+                    "name": "Porte des Lilas",
+                    "districts": "19,20",
+                    "connections": "3b,11",
+                    "trafic": 3899020
+                }
+            }
+        },
+        "5": {
+            "name": "Ligne 4",
+            "nbstations": 27,
+            "stations": {
+                "1": {
+                    "name": "Mairie de Montrouge",
+                    "districts": "41",
+                    "connections": "4",
+                    "trafic": 0
+                },
+                "2": {
+                    "name": "Porte d'OrlÃ©ans",
+                    "districts": "14",
+                    "connections": "4",
+                    "trafic": 9598097
+                },
+                "3": {
+                    "name": "AlÃ©sia",
+                    "districts": "14",
+                    "connections": "4",
+                    "trafic": 5317934
+                },
+                "4": {
+                    "name": "Mouton-Duvernet",
+                    "districts": "14",
+                    "connections": "4",
+                    "trafic": 1690457
+                },
+                "5": {
+                    "name": "Denfert-Rochereau",
+                    "districts": "14",
+                    "connections": "4,6",
+                    "trafic": 4262370
+                },
+                "6": {
+                    "name": "Raspail",
+                    "districts": "14",
+                    "connections": "4,6",
+                    "trafic": 1785546
+                },
+                "7": {
+                    "name": "Vavin",
+                    "districts": "6,14",
+                    "connections": "4,6",
+                    "trafic": 2242491
+                },
+                "8": {
+                    "name": "Montparnasse - BienvenÃ¼e",
+                    "districts": "6,14,15",
+                    "connections": "4,6,12,13",
+                    "trafic": 31152275
+                },
+                "9": {
+                    "name": "Saint-Placide",
+                    "districts": "6",
+                    "connections": "4",
+                    "trafic": 3404889
+                },
+                "10": {
+                    "name": "Saint-Sulpice",
+                    "districts": "6",
+                    "connections": "4",
+                    "trafic": 2432022
+                },
+                "11": {
+                    "name": "Saint-Germain-des-PrÃ©s",
+                    "districts": "6",
+                    "connections": "4",
+                    "trafic": 4548167
+                },
+                "12": {
+                    "name": "OdÃ©on",
+                    "districts": "6",
+                    "connections": "4,10",
+                    "trafic": 6239672
+                },
+                "13": {
+                    "name": "Saint-Michel",
+                    "districts": "5,6",
+                    "connections": "4",
+                    "trafic": 9159024
+                },
+                "14": {
+                    "name": "CitÃ©",
+                    "districts": "4",
+                    "connections": "4",
+                    "trafic": 2367677
+                },
+                "15": {
+                    "name": "ChÃ¢telet",
+                    "districts": "1,4",
+                    "connections": "1,4,7,11,14",
+                    "trafic": 14440964
+                },
+                "16": {
+                    "name": "Les Halles",
+                    "districts": "1",
+                    "connections": "4",
+                    "trafic": 13113834
+                },
+                "17": {
+                    "name": "Ã‰tienne Marcel",
+                    "districts": "1,2",
+                    "connections": "4",
+                    "trafic": 2661074
+                },
+                "18": {
+                    "name": "RÃ©aumur - SÃ©bastopol",
+                    "districts": "2,3",
+                    "connections": "3,4",
+                    "trafic": 5860077
+                },
+                "19": {
+                    "name": "Strasbourg - Saint-Denis",
+                    "districts": "2,3,10",
+                    "connections": "4,8,9",
+                    "trafic": 7346063
+                },
+                "20": {
+                    "name": "ChÃ¢teau d'Eau",
+                    "districts": "10",
+                    "connections": "4",
+                    "trafic": 4842822
+                },
+                "21": {
+                    "name": "Gare de l'Est",
+                    "districts": "10",
+                    "connections": "4,5,7",
+                    "trafic": 19671320
+                },
+                "22": {
+                    "name": "Gare du Nord",
+                    "districts": "10",
+                    "connections": "4,5",
+                    "trafic": 48146629
+                },
+                "23": {
+                    "name": "BarbÃ¨s - Rochechouart",
+                    "districts": "9,10,18",
+                    "connections": "2,4",
+                    "trafic": 9323474
+                },
+                "24": {
+                    "name": "ChÃ¢teau Rouge",
+                    "districts": "18",
+                    "connections": "4",
+                    "trafic": 6798017
+                },
+                "25": {
+                    "name": "Marcadet - Poissonniers",
+                    "districts": "18",
+                    "connections": "4,12",
+                    "trafic": 6064992
+                },
+                "26": {
+                    "name": "Simplon",
+                    "districts": "18",
+                    "connections": "4",
+                    "trafic": 2996051
+                },
+                "27": {
+                    "name": "Porte de Clignancourt",
+                    "districts": "18",
+                    "connections": "4",
+                    "trafic": 9000298
+                }
+            }
+        },
+        "6": {
+            "name": "Ligne 5",
+            "nbstations": 21,
+            "stations": {
+                "1": {
+                    "name": "Place d'Italie",
+                    "districts": "13",
+                    "connections": "5,6,7",
+                    "trafic": 12168442
+                },
+                "2": {
+                    "name": "Campo-Formio",
+                    "districts": "13",
+                    "connections": "5",
+                    "trafic": 1234237
+                },
+                "3": {
+                    "name": "Saint-Michel",
+                    "districts": "13",
+                    "connections": "5",
+                    "trafic": 2023002
+                },
+                "4": {
+                    "name": "Gare d'Austerlitz",
+                    "districts": "5,13",
+                    "connections": "5,10",
+                    "trafic": 9063260
+                },
+                "5": {
+                    "name": "Quai de la RapÃ©e",
+                    "districts": "12",
+                    "connections": "5",
+                    "trafic": 1201924
+                },
+                "6": {
+                    "name": "Bastille",
+                    "districts": "4,11,12",
+                    "connections": "1,5,8",
+                    "trafic": 12517181
+                },
+                "7": {
+                    "name": "BrÃ©guet - Sabin",
+                    "districts": "11",
+                    "connections": "5",
+                    "trafic": 2448167
+                },
+                "8": {
+                    "name": "Richard-Lenoir",
+                    "districts": "11",
+                    "connections": "5",
+                    "trafic": 1640016
+                },
+                "9": {
+                    "name": "Oberkampf",
+                    "districts": "11",
+                    "connections": "5,9",
+                    "trafic": 4198870
+                },
+                "10": {
+                    "name": "RÃ©publique",
+                    "districts": "3,10,11",
+                    "connections": "3,5,8,9,11",
+                    "trafic": 17095806
+                },
+                "11": {
+                    "name": "Jacques Bonsergent",
+                    "districts": "10",
+                    "connections": "5",
+                    "trafic": 2622801
+                },
+                "12": {
+                    "name": "Gare de l'Est",
+                    "districts": "10",
+                    "connections": "4,5,7",
+                    "trafic": 19671320
+                },
+                "13": {
+                    "name": "Gare du Nord",
+                    "districts": "10",
+                    "connections": "4,5",
+                    "trafic": 48146629
+                },
+                "14": {
+                    "name": "Stalingrad",
+                    "districts": "10,19",
+                    "connections": "2,5,7",
+                    "trafic": 6906194
+                },
+                "15": {
+                    "name": "JaurÃ¨s",
+                    "districts": "10,19",
+                    "connections": "2,5,7bis",
+                    "trafic": 6046012
+                },
+                "16": {
+                    "name": "LaumiÃ¨re",
+                    "districts": "19",
+                    "connections": "5",
+                    "trafic": 4518075
+                },
+                "17": {
+                    "name": "Ourcq",
+                    "districts": "19",
+                    "connections": "5",
+                    "trafic": 3887042
+                },
+                "18": {
+                    "name": "Porte de Pantin",
+                    "districts": "19",
+                    "connections": "5",
+                    "trafic": 4477959
+                },
+                "19": {
+                    "name": "Hoche",
+                    "districts": "43",
+                    "connections": "5",
+                    "trafic": 5217935
+                },
+                "20": {
+                    "name": "Ã‰glise de Pantin",
+                    "districts": "43",
+                    "connections": "5",
+                    "trafic": 3632300
+                },
+                "21": {
+                    "name": "Bobigny - Pantin - Raymond Queneau",
+                    "districts": "43,24",
+                    "connections": "5",
+                    "trafic": 2251347
+                },
+                "22": {
+                    "name": "Bobigny - Pablo Picasso",
+                    "districts": "24",
+                    "connections": "5",
+                    "trafic": 6722182
+                }
+            }
+        },
+        "7": {
+            "name": "Ligne 6",
+            "nbstations": 28,
+            "stations": {
+                "1": {
+                    "name": "Charles de Gaulle - Ã‰toile",
+                    "districts": "8,16,17",
+                    "connections": "1,2,6",
+                    "trafic": 8980015
+                },
+                "2": {
+                    "name": "KlÃ©ber",
+                    "districts": "16",
+                    "connections": "6",
+                    "trafic": 1150016
+                },
+                "3": {
+                    "name": "BoissiÃ¨re",
+                    "districts": "16",
+                    "connections": "6",
+                    "trafic": 2145714
+                },
+                "4": {
+                    "name": "TrocadÃ©ro",
+                    "districts": "16",
+                    "connections": "6,9",
+                    "trafic": 8455619
+                },
+                "5": {
+                    "name": "Passy",
+                    "districts": "16",
+                    "connections": "6",
+                    "trafic": 3918954
+                },
+                "6": {
+                    "name": "Bir-Hakeim",
+                    "districts": "15",
+                    "connections": "6",
+                    "trafic": 7825821
+                },
+                "7": {
+                    "name": "Dupleix",
+                    "districts": "15",
+                    "connections": "6",
+                    "trafic": 3855503
+                },
+                "8": {
+                    "name": "La Motte-Picquet - Grenelle",
+                    "districts": "15",
+                    "connections": "6,8,10",
+                    "trafic": 8099346
+                },
+                "9": {
+                    "name": "Cambronne",
+                    "districts": "15",
+                    "connections": "6",
+                    "trafic": 3155480
+                },
+                "10": {
+                    "name": "SÃ¨vres - Lecourbe",
+                    "districts": "15",
+                    "connections": "6",
+                    "trafic": 2416242
+                },
+                "11": {
+                    "name": "Pasteur",
+                    "districts": "15",
+                    "connections": "6,12",
+                    "trafic": 5089504
+                },
+                "12": {
+                    "name": "Montparnasse - BienvenÃ¼e",
+                    "districts": "6,14,15",
+                    "connections": "4,6,12,13",
+                    "trafic": 31152275
+                },
+                "13": {
+                    "name": "Edgar Quinet",
+                    "districts": "14",
+                    "connections": "6",
+                    "trafic": 2224650
+                },
+                "14": {
+                    "name": "Raspail",
+                    "districts": "14",
+                    "connections": "4,6",
+                    "trafic": 1785546
+                },
+                "15": {
+                    "name": "Denfert-Rochereau",
+                    "districts": "14",
+                    "connections": "4,6",
+                    "trafic": 4262370
+                },
+                "16": {
+                    "name": "Saint-Jacques",
+                    "districts": "14",
+                    "connections": "6",
+                    "trafic": 1937457
+                },
+                "17": {
+                    "name": "GlaciÃ¨re",
+                    "districts": "13",
+                    "connections": "6",
+                    "trafic": 4739497
+                },
+                "18": {
+                    "name": "Corvisart",
+                    "districts": "13",
+                    "connections": "6",
+                    "trafic": 2604292
+                },
+                "19": {
+                    "name": "Place d'Italie",
+                    "districts": "13",
+                    "connections": "5,6,7",
+                    "trafic": 12168442
+                },
+                "20": {
+                    "name": "Nationale",
+                    "districts": "13",
+                    "connections": "6",
+                    "trafic": 2626967
+                },
+                "21": {
+                    "name": "Chevaleret",
+                    "districts": "13",
+                    "connections": "6",
+                    "trafic": 2999174
+                },
+                "22": {
+                    "name": "Quai de la Gare",
+                    "districts": "13",
+                    "connections": "6",
+                    "trafic": 3085406
+                },
+                "23": {
+                    "name": "Bercy",
+                    "districts": "12",
+                    "connections": "6",
+                    "trafic": 5565249
+                },
+                "24": {
+                    "name": "Dugommier",
+                    "districts": "12",
+                    "connections": "6",
+                    "trafic": 2694014
+                },
+                "25": {
+                    "name": "Daumesnil",
+                    "districts": "12",
+                    "connections": "6,8",
+                    "trafic": 5435445
+                },
+                "26": {
+                    "name": "Bel-Air",
+                    "districts": "12",
+                    "connections": "6",
+                    "trafic": 2369793
+                },
+                "27": {
+                    "name": "Picpus",
+                    "districts": "12",
+                    "connections": "6",
+                    "trafic": 1496432
+                },
+                "28": {
+                    "name": "Nation",
+                    "districts": "11,12",
+                    "connections": "1,2,6,9",
+                    "trafic": 9481963
+                }
+            }
+        },
+        "8": {
+            "name": "Ligne 7",
+            "nbstations": 38,
+            "stations": {
+                "1": {
+                    "name": "Villejuif - Louis Aragon",
+                    "districts": "49",
+                    "connections": "7",
+                    "trafic": 8980015
+                },
+                "2": {
+                    "name": "Villejuif â€“ Paul Vaillant-Couturier",
+                    "districts": "49",
+                    "connections": "7",
+                    "trafic": 1150016
+                },
+                "3": {
+                    "name": "Villejuif â€“ LÃ©o Lagrange",
+                    "districts": "49",
+                    "connections": "7",
+                    "trafic": 2145714
+                },
+                "4": {
+                    "name": "Le KrÃ©mlin-BicÃªtre",
+                    "districts": "35",
+                    "connections": "7",
+                    "trafic": 8455619
+                },
+                "5": {
+                    "name": "Mairie d'Ivry",
+                    "districts": "33",
+                    "connections": "7",
+                    "trafic": 3918954
+                },
+                "6": {
+                    "name": "Pierre et Marie Curie",
+                    "districts": "33",
+                    "connections": "7",
+                    "trafic": 1416989
+                },
+                "7": {
+                    "name": "Porte d'Ivry",
+                    "districts": "13",
+                    "connections": "7",
+                    "trafic": 1903789
+                },
+                "8": {
+                    "name": "Porte de Choisy",
+                    "districts": "13",
+                    "connections": "7",
+                    "trafic": 3116890
+                },
+                "9": {
+                    "name": "Porte d'Italie",
+                    "districts": "13",
+                    "connections": "7",
+                    "trafic": 2562120
+                },
+                "10": {
+                    "name": "Maison Blanche",
+                    "districts": "13",
+                    "connections": "7",
+                    "trafic": 2155971
+                },
+                "11": {
+                    "name": "Tolbiac",
+                    "districts": "13",
+                    "connections": "7",
+                    "trafic": 3612890
+                },
+                "12": {
+                    "name": "Place d'Italie",
+                    "districts": "13",
+                    "connections": "5,6,7",
+                    "trafic": 12168442
+                },
+                "13": {
+                    "name": "Les Gobelins",
+                    "districts": "5,13",
+                    "connections": "7",
+                    "trafic": 3830231
+                },
+                "14": {
+                    "name": "Censier â€“ Daubenton",
+                    "districts": "5",
+                    "connections": "7",
+                    "trafic": 3766777
+                },
+                "15": {
+                    "name": "Place Monge",
+                    "districts": "5",
+                    "connections": "7",
+                    "trafic": 2927184
+                },
+                "16": {
+                    "name": "Jussieu",
+                    "districts": "5",
+                    "connections": "7,10",
+                    "trafic": 4080680
+                },
+                "17": {
+                    "name": "Sully â€“ Morland",
+                    "districts": "4",
+                    "connections": "7",
+                    "trafic": 1606960
+                },
+                "18": {
+                    "name": "Pont Marie",
+                    "districts": "4",
+                    "connections": "7",
+                    "trafic": 1595098
+                },
+                "19": {
+                    "name": "ChÃ¢telet",
+                    "districts": "1,4",
+                    "connections": "1,4,7,11,14",
+                    "trafic": 14440964
+                },
+                "20": {
+                    "name": "Pont Neuf",
+                    "districts": "1",
+                    "connections": "7",
+                    "trafic": 1612517
+                },
+                "21": {
+                    "name": "Palais Royal - MusÃ©e du Louvre",
+                    "districts": "1",
+                    "connections": "1,7",
+                    "trafic": 9559535
+                },
+                "22": {
+                    "name": "Pyramides",
+                    "districts": "1",
+                    "connections": "7,14",
+                    "trafic": 5084082
+                },
+                "23": {
+                    "name": "OpÃ©ra",
+                    "districts": "2,9",
+                    "connections": "3,7,8",
+                    "trafic": 12389715
+                },
+                "24": {
+                    "name": "ChaussÃ©e d'Antin â€“ La Fayette",
+                    "districts": "9",
+                    "connections": "7,9",
+                    "trafic": 7778782
+                },
+                "25": {
+                    "name": "Le Peletier",
+                    "districts": "9",
+                    "connections": "7",
+                    "trafic": 2235088
+                },
+                "26": {
+                    "name": "Cadet",
+                    "districts": "9",
+                    "connections": "7",
+                    "trafic": 3650405
+                },
+                "27": {
+                    "name": "PoissonniÃ¨re",
+                    "districts": "9,10",
+                    "connections": "7",
+                    "trafic": 3570062
+                },
+                "28": {
+                    "name": "Gare de l'Est",
+                    "districts": "10",
+                    "connections": "4,5,7",
+                    "trafic": 19671320
+                },
+                "29": {
+                    "name": "ChÃ¢teau-Landon",
+                    "districts": "10",
+                    "connections": "7",
+                    "trafic": 1600022
+                },
+                "30": {
+                    "name": "Louis Blanc",
+                    "districts": "10",
+                    "connections": "7,7b",
+                    "trafic": 2523039
+                },
+                "31": {
+                    "name": "Stalingrad",
+                    "districts": "10,19",
+                    "connections": "2,5,7",
+                    "trafic": 6906194
+                },
+                "32": {
+                    "name": "Riquet",
+                    "districts": "19",
+                    "connections": "7",
+                    "trafic": 2519241
+                },
+                "33": {
+                    "name": "CrimÃ©e",
+                    "districts": "19",
+                    "connections": "7",
+                    "trafic": 7183997
+                },
+                "34": {
+                    "name": "Corentin Cariou",
+                    "districts": "19",
+                    "connections": "7",
+                    "trafic": 3090833
+                },
+                "35": {
+                    "name": "Porte de la Villette",
+                    "districts": "19",
+                    "connections": "7",
+                    "trafic": 3209252
+                },
+                "36": {
+                    "name": "Aubervilliers â€“ Pantin â€“ Quatre Chemins",
+                    "districts": "22,43",
+                    "connections": "7",
+                    "trafic": 7356008
+                },
+                "37": {
+                    "name": "Fort d'Aubervilliers",
+                    "districts": "22",
+                    "connections": "7",
+                    "trafic": 3455421
+                },
+                "38": {
+                    "name": "La Courneuve â€“ 8 Mai 1945",
+                    "districts": "34",
+                    "connections": "7",
+                    "trafic": 5707118
+                }
+            }
+        },
+        "9": {
+            "name": "Ligne 7 bis",
+            "nbstations": 8,
+            "stations": {
+                "1": {
+                    "name": "Louis Blanc",
+                    "districts": "10",
+                    "connections": "7,7b",
+                    "trafic": 2523039
+                },
+                "2": {
+                    "name": "JaurÃ¨s",
+                    "districts": "10,19",
+                    "connections": "2,5,7b",
+                    "trafic": 6046012
+                },
+                "3": {
+                    "name": "Bolivar",
+                    "districts": "19",
+                    "connections": "7b",
+                    "trafic": 582328
+                },
+                "4": {
+                    "name": "Buttes Chaumont",
+                    "districts": "19",
+                    "connections": "7b",
+                    "trafic": 575182
+                },
+                "5": {
+                    "name": "Botzaris",
+                    "districts": "19",
+                    "connections": "7b",
+                    "trafic": 1096111
+                },
+                "6": {
+                    "name": "Danube",
+                    "districts": "19",
+                    "connections": "7b",
+                    "trafic": 679746
+                },
+                "7": {
+                    "name": "Place des FÃªtes",
+                    "districts": "19",
+                    "connections": "7b,11",
+                    "trafic": 3265485
+                },
+                "8": {
+                    "name": "PrÃ© Saint-Gervais",
+                    "districts": "19",
+                    "connections": "7b",
+                    "trafic": 451729
+                }
+            }
+        },
+        "10": {
+            "name": "Ligne 8",
+            "nbstations": 38,
+            "stations": {
+                "1": {
+                    "name": "Balard",
+                    "districts": "15",
+                    "connections": "8",
+                    "trafic": 4263152
+                },
+                "2": {
+                    "name": "Lourmel",
+                    "districts": "15",
+                    "connections": "8",
+                    "trafic": 2441226
+                },
+                "3": {
+                    "name": "Boucicaut",
+                    "districts": "15",
+                    "connections": "8",
+                    "trafic": 2826775
+                },
+                "4": {
+                    "name": "FÃ©lix Faure",
+                    "districts": "15",
+                    "connections": "8",
+                    "trafic": 1932459
+                },
+                "5": {
+                    "name": "Commerce",
+                    "districts": "15",
+                    "connections": "8",
+                    "trafic": 2700300
+                },
+                "6": {
+                    "name": "La Motte-Picquet - Grenelle",
+                    "districts": "15",
+                    "connections": "6,8,10",
+                    "trafic": 8099346
+                },
+                "7": {
+                    "name": "Ã‰cole Militaire",
+                    "districts": "7",
+                    "connections": "8",
+                    "trafic": 4403029
+                },
+                "8": {
+                    "name": "La Tour-Maubourg",
+                    "districts": "7",
+                    "connections": "8",
+                    "trafic": 2055583
+                },
+                "9": {
+                    "name": "Invalides",
+                    "districts": "7",
+                    "connections": "8,13",
+                    "trafic": 6931062
+                },
+                "10": {
+                    "name": "Concorde",
+                    "districts": "1,8",
+                    "connections": "1,8,12",
+                    "trafic": 6866631
+                },
+                "11": {
+                    "name": "Madeleine",
+                    "districts": "7",
+                    "connections": "8,12,14",
+                    "trafic": 7412746
+                },
+                "12": {
+                    "name": "OpÃ©ra",
+                    "districts": "2,9",
+                    "connections": "3,7,8",
+                    "trafic": 12389715
+                },
+                "13": {
+                    "name": "Richelieu - Drouot",
+                    "districts": "2,9",
+                    "connections": "8,9",
+                    "trafic": 5297670
+                },
+                "14": {
+                    "name": "Grands Boulevards",
+                    "districts": "2,9",
+                    "connections": "8,9",
+                    "trafic": 6826718
+                },
+                "15": {
+                    "name": "Bonne-Nouvelle",
+                    "districts": "2,9,10",
+                    "connections": "8,9",
+                    "trafic": 5196140
+                },
+                "16": {
+                    "name": "Strasbourg - Saint-Denis",
+                    "districts": "2,3,10",
+                    "connections": "4,8,9",
+                    "trafic": 7346063
+                },
+                "17": {
+                    "name": "RÃ©publique",
+                    "districts": "3,10,11",
+                    "connections": "3,5,8,9,11",
+                    "trafic": 17095806
+                },
+                "18": {
+                    "name": "Filles du Calvaire",
+                    "districts": "3,11",
+                    "connections": "8",
+                    "trafic": 1663111
+                },
+                "19": {
+                    "name": "Saint-SÃ©bastien - Froissart",
+                    "districts": "3,11",
+                    "connections": "8",
+                    "trafic": 1680231
+                },
+                "20": {
+                    "name": "Chemin Vert",
+                    "districts": "3,11",
+                    "connections": "8",
+                    "trafic": 1448436
+                },
+                "21": {
+                    "name": "Bastille",
+                    "districts": "4,11,12",
+                    "connections": "1,5,8",
+                    "trafic": 12517181
+                },
+                "22": {
+                    "name": "Ledru-Rollin",
+                    "districts": "11,12",
+                    "connections": "8",
+                    "trafic": 3829461
+                },
+                "23": {
+                    "name": "Faidherbe - Chaligny",
+                    "districts": "11,12",
+                    "connections": "8",
+                    "trafic": 2974641
+                },
+                "24": {
+                    "name": "Reuilly - Diderot",
+                    "districts": "12",
+                    "connections": "1,8",
+                    "trafic": 5451933
+                },
+                "25": {
+                    "name": "Montgallet",
+                    "districts": "12",
+                    "connections": "8",
+                    "trafic": 1793225
+                },
+                "26": {
+                    "name": "Daumesnil",
+                    "districts": "12",
+                    "connections": "6,8",
+                    "trafic": 5435445
+                },
+                "27": {
+                    "name": "Michel Bizot",
+                    "districts": "12",
+                    "connections": "8",
+                    "trafic": 2111494
+                },
+                "28": {
+                    "name": "Porte DorÃ©e",
+                    "districts": "12",
+                    "connections": "8",
+                    "trafic": 2675992
+                },
+                "29": {
+                    "name": "Porte de Charenton",
+                    "districts": "12",
+                    "connections": "8",
+                    "trafic": 957771
+                },
+                "30": {
+                    "name": "LibertÃ©",
+                    "districts": "26",
+                    "connections": "8",
+                    "trafic": 2607263
+                },
+                "31": {
+                    "name": "Charenton - Ã‰coles",
+                    "districts": "26",
+                    "connections": "8",
+                    "trafic": 2975899
+                },
+                "32": {
+                    "name": "Ã‰cole vÃ©tÃ©rinaire de Maisons-Alfort",
+                    "districts": "38",
+                    "connections": "8",
+                    "trafic": 3371386
+                },
+                "33": {
+                    "name": "Maisons-Alfort - Stade",
+                    "districts": "38",
+                    "connections": "8",
+                    "trafic": 1523038
+                },
+                "34": {
+                    "name": "Maisons-Alfort - Les Juilliottes",
+                    "districts": "38",
+                    "connections": "8",
+                    "trafic": 1976516
+                },
+                "35": {
+                    "name": "CrÃ©teil - L'Ã‰chat",
+                    "districts": "30",
+                    "connections": "8",
+                    "trafic": 2109885
+                },
+                "36": {
+                    "name": "CrÃ©teil - UniversitÃ©",
+                    "districts": "30",
+                    "connections": "8",
+                    "trafic": 3116625
+                },
+                "37": {
+                    "name": "CrÃ©teil - PrÃ©fecture",
+                    "districts": "30",
+                    "connections": "8",
+                    "trafic": 4865573
+                },
+                "38": {
+                    "name": "Pointe du Lac",
+                    "districts": "30",
+                    "connections": "8",
+                    "trafic": 389235
+                }
+            }
+        },
+        "11": {
+            "name": "Ligne 9",
+            "nbstations": 37,
+            "stations": {
+                "1": {
+                    "name": "Pont de SÃ¨vres",
+                    "districts": "25",
+                    "connections": "9",
+                    "trafic": 4352829
+                },
+                "2": {
+                    "name": "Billancourt",
+                    "districts": "25",
+                    "connections": "9",
+                    "trafic": 2643194
+                },
+                "3": {
+                    "name": "Marcel Sembat",
+                    "districts": "25",
+                    "connections": "9",
+                    "trafic": 5816044
+                },
+                "4": {
+                    "name": "Porte de Saint-Cloud",
+                    "districts": "16",
+                    "connections": "9",
+                    "trafic": 4932701
+                },
+                "5": {
+                    "name": "Exelmans",
+                    "districts": "16",
+                    "connections": "9",
+                    "trafic": 1985640
+                },
+                "6": {
+                    "name": "Michel-Ange - Molitor",
+                    "districts": "16",
+                    "connections": "9,10",
+                    "trafic": 1939507
+                },
+                "7": {
+                    "name": "Michel-Ange - Auteuil",
+                    "districts": "16",
+                    "connections": "9,10",
+                    "trafic": 2206285
+                },
+                "8": {
+                    "name": "Jasmin",
+                    "districts": "16",
+                    "connections": "9",
+                    "trafic": 2065058
+                },
+                "9": {
+                    "name": "Ranelagh",
+                    "districts": "16",
+                    "connections": "9",
+                    "trafic": 2315446
+                },
+                "10": {
+                    "name": "La Muette",
+                    "districts": "16",
+                    "connections": "9",
+                    "trafic": 4112862
+                },
+                "11": {
+                    "name": "Rue de la Pompe",
+                    "districts": "16",
+                    "connections": "9",
+                    "trafic": 3081914
+                },
+                "12": {
+                    "name": "TrocadÃ©ro",
+                    "districts": "16",
+                    "connections": "6,9",
+                    "trafic": 8455619
+                },
+                "13": {
+                    "name": "IÃ©na",
+                    "districts": "16",
+                    "connections": "9",
+                    "trafic": 2115003
+                },
+                "14": {
+                    "name": "Alma - Marceau",
+                    "districts": "8",
+                    "connections": "9",
+                    "trafic": 4080301
+                },
+                "15": {
+                    "name": "Franklin D. Roosevelt",
+                    "districts": "8",
+                    "connections": "1,9",
+                    "trafic": 12640577
+                },
+                "16": {
+                    "name": "Saint-Philippe-du-Roule",
+                    "districts": "8",
+                    "connections": "9",
+                    "trafic": 2813350
+                },
+                "17": {
+                    "name": "Mirosmenil",
+                    "districts": "8",
+                    "connections": "9,13",
+                    "trafic": 5769023
+                },
+                "18": {
+                    "name": "Saint-Augustin",
+                    "districts": "8",
+                    "connections": "3,9,12,13,14",
+                    "trafic": 2923768
+                },
+                "19": {
+                    "name": "Havre - Caumartin",
+                    "districts": "9",
+                    "connections": "3,7,8,9",
+                    "trafic": 8343415
+                },
+                "20": {
+                    "name": "ChaussÃ©e d'Antin - La Fayette",
+                    "districts": "9",
+                    "connections": "7,9",
+                    "trafic": 7778782
+                },
+                "21": {
+                    "name": "Richelieu - Drouot",
+                    "districts": "2,9",
+                    "connections": "8,9",
+                    "trafic": 5297670
+                },
+                "22": {
+                    "name": "Grands Boulevards",
+                    "districts": "2,9",
+                    "connections": "8,9",
+                    "trafic": 6826718
+                },
+                "23": {
+                    "name": "Bonne Nouvelle",
+                    "districts": "2,9,10",
+                    "connections": "8,9",
+                    "trafic": 5196140
+                },
+                "24": {
+                    "name": "Starsbourg - Saint-Denis",
+                    "districts": "2,3,10",
+                    "connections": "4,8,9",
+                    "trafic": 7346063
+                },
+                "25": {
+                    "name": "RÃ©publique",
+                    "districts": "3,10,11",
+                    "connections": "3,5,8,9,11",
+                    "trafic": 17095806
+                },
+                "26": {
+                    "name": "Oberkampf",
+                    "districts": "11",
+                    "connections": "5,9",
+                    "trafic": 4198870
+                },
+                "27": {
+                    "name": "Saint-Ambroise",
+                    "districts": "11",
+                    "connections": "9",
+                    "trafic": 2758716
+                },
+                "28": {
+                    "name": "Voltaire",
+                    "districts": "11",
+                    "connections": "9",
+                    "trafic": 5273953
+                },
+                "29": {
+                    "name": "Charonne",
+                    "districts": "11",
+                    "connections": "9",
+                    "trafic": 3924516
+                },
+                "30": {
+                    "name": "Rue des Boulets",
+                    "districts": "11",
+                    "connections": "9",
+                    "trafic": 2669336
+                },
+                "31": {
+                    "name": "Nation",
+                    "districts": "11,12",
+                    "connections": "1,2,6,9",
+                    "trafic": 9481963
+                },
+                "32": {
+                    "name": "Buzenval",
+                    "districts": "20",
+                    "connections": "9",
+                    "trafic": 1853733
+                },
+                "33": {
+                    "name": "MaraÃ®chers",
+                    "districts": "20",
+                    "connections": "9",
+                    "trafic": 2986282
+                },
+                "34": {
+                    "name": "Porte de Montreuil",
+                    "districts": "20",
+                    "connections": "9",
+                    "trafic": 4822893
+                },
+                "35": {
+                    "name": "Robespierre",
+                    "districts": "40",
+                    "connections": "9",
+                    "trafic": 4317097
+                },
+                "36": {
+                    "name": "Croix de Chavaux",
+                    "districts": "40",
+                    "connections": "9",
+                    "trafic": 4978787
+                },
+                "37": {
+                    "name": "Mairie de Montreuil",
+                    "districts": "40",
+                    "connections": "9",
+                    "trafic": 6300355
+                }
+            }
+        },
+        "12": {
+            "name": "Ligne 10",
+            "nbstations": 23,
+            "stations": {
+                "1": {
+                    "name": "Boulogne - Pont de Saint-Cloud",
+                    "districts": "25",
+                    "connections": "10",
+                    "trafic": 2900015
+                },
+                "2": {
+                    "name": "Boulogne - Jean JaurÃ¨s",
+                    "districts": "25",
+                    "connections": "10",
+                    "trafic": 3748047
+                },
+                "3": {
+                    "name": "Porte d'Auteuil",
+                    "districts": "16",
+                    "connections": "10",
+                    "trafic": 721009
+                },
+                "4": {
+                    "name": "Michel-Ange - Auteuil",
+                    "districts": "16",
+                    "connections": "9,10",
+                    "trafic": 2206285
+                },
+                "5": {
+                    "name": "Ã‰glise d'Auteuil",
+                    "districts": "16",
+                    "connections": "10",
+                    "trafic": 178152
+                },
+                "6": {
+                    "name": "Michel-Ange - Molitor",
+                    "districts": "16",
+                    "connections": "9,10",
+                    "trafic": 1939507
+                },
+                "7": {
+                    "name": "Chardon Lagache",
+                    "districts": "16",
+                    "connections": "10",
+                    "trafic": 636141
+                },
+                "8": {
+                    "name": "Mirabeau",
+                    "districts": "16",
+                    "connections": "10",
+                    "trafic": 1387272
+                },
+                "9": {
+                    "name": "Javel - AndrÃ© CitroÃ«n",
+                    "districts": "15",
+                    "connections": "10",
+                    "trafic": 2473278
+                },
+                "10": {
+                    "name": "Charles Michels",
+                    "districts": "15",
+                    "connections": "10",
+                    "trafic": 3892728
+                },
+                "11": {
+                    "name": "Avenue Ã‰mile Zola",
+                    "districts": "15",
+                    "connections": "10",
+                    "trafic": 1479756
+                },
+                "12": {
+                    "name": "La Motte-Picquet - Grenelle",
+                    "districts": "15",
+                    "connections": "6,8,10",
+                    "trafic": 8099346
+                },
+                "13": {
+                    "name": "SÃ©gur",
+                    "districts": "7,15",
+                    "connections": "10",
+                    "trafic": 1627318
+                },
+                "14": {
+                    "name": "Duroc",
+                    "districts": "6,7,15",
+                    "connections": "10,13",
+                    "trafic": 3218029
+                },
+                "15": {
+                    "name": "Vaneau",
+                    "districts": "6,7",
+                    "connections": "10",
+                    "trafic": 928476
+                },
+                "16": {
+                    "name": "SÃ¨vres - Babylone",
+                    "districts": "6,7",
+                    "connections": "10,12",
+                    "trafic": 5618445
+                },
+                "17": {
+                    "name": "Mabillon",
+                    "districts": "6",
+                    "connections": "10",
+                    "trafic": 1915829
+                },
+                "18": {
+                    "name": "OdÃ©on",
+                    "districts": "6",
+                    "connections": "4,10",
+                    "trafic": 6239672
+                },
+                "19": {
+                    "name": "Cluny - La Sorbonne",
+                    "districts": "5",
+                    "connections": "10",
+                    "trafic": 2744528
+                },
+                "20": {
+                    "name": "Maubert - MutualitÃ©",
+                    "districts": "5",
+                    "connections": "10",
+                    "trafic": 2549853
+                },
+                "21": {
+                    "name": "Cardinal Lemoine",
+                    "districts": "5",
+                    "connections": "10",
+                    "trafic": 1661863
+                },
+                "22": {
+                    "name": "Jussieu",
+                    "districts": "5",
+                    "connections": "7,10",
+                    "trafic": 4080680
+                },
+                "23": {
+                    "name": "Gare d'Austerlitz",
+                    "districts": "5,13",
+                    "connections": "5,10",
+                    "trafic": 9063260
+                }
+            }
+        },
+        "13": {
+            "name": "Ligne 11",
+            "nbstations": 13,
+            "stations": {
+                "1": {
+                    "name": "ChÃ¢telet",
+                    "districts": "1,4",
+                    "connections": "1,4,7,11,14",
+                    "trafic": 14440964
+                },
+                "2": {
+                    "name": "HÃ´tel de Ville",
+                    "districts": "4",
+                    "connections": "1,11",
+                    "trafic": 12760823
+                },
+                "3": {
+                    "name": "Rambuteau",
+                    "districts": "3,4",
+                    "connections": "11",
+                    "trafic": 4491306
+                },
+                "4": {
+                    "name": "Arts et MÃ©tiers",
+                    "districts": "3",
+                    "connections": "3,11",
+                    "trafic": 3859066
+                },
+                "5": {
+                    "name": "RÃ©publique",
+                    "districts": "3,10,11",
+                    "connections": "3,5,8,9,11",
+                    "trafic": 17095806
+                },
+                "6": {
+                    "name": "Goncourt",
+                    "districts": "10,11",
+                    "connections": "11",
+                    "trafic": 3648533
+                },
+                "7": {
+                    "name": "Belleville",
+                    "districts": "10,11,19,20",
+                    "connections": "2,11",
+                    "trafic": 11794952
+                },
+                "8": {
+                    "name": "PyrÃ©nÃ©es",
+                    "districts": "19,20",
+                    "connections": "11",
+                    "trafic": 3279317
+                },
+                "9": {
+                    "name": "Jourdain",
+                    "districts": "19,20",
+                    "connections": "11",
+                    "trafic": 3418732
+                },
+                "10": {
+                    "name": "Place des FÃªtes",
+                    "districts": "19",
+                    "connections": "7b,11",
+                    "trafic": 3265485
+                },
+                "11": {
+                    "name": "TÃ©lÃ©graphe",
+                    "districts": "19,20",
+                    "connections": "11",
+                    "trafic": 2160412
+                },
+                "12": {
+                    "name": "Porte des Lilas",
+                    "districts": "19,20",
+                    "connections": "3b,11",
+                    "trafic": 3899020
+                },
+                "13": {
+                    "name": "Mairie des Lilas",
+                    "districts": "36",
+                    "connections": "11",
+                    "trafic": 4602681
+                }
+            }
+        },
+        "14": {
+            "name": "Ligne 12",
+            "nbstations": 29,
+            "stations": {
+                "1": {
+                    "name": "Mairie d'Issy",
+                    "districts": "32",
+                    "connections": "12",
+                    "trafic": 4194027
+                },
+                "2": {
+                    "name": "Corentin Celton",
+                    "districts": "32",
+                    "connections": "12",
+                    "trafic": 3385005
+                },
+                "3": {
+                    "name": "Porte de Versailles",
+                    "districts": "15",
+                    "connections": "12",
+                    "trafic": 6275922
+                },
+                "4": {
+                    "name": "Convention",
+                    "districts": "15",
+                    "connections": "12",
+                    "trafic": 5780845
+                },
+                "5": {
+                    "name": "Vaugirard",
+                    "districts": "15",
+                    "connections": "12",
+                    "trafic": 3853128
+                },
+                "6": {
+                    "name": "Volontaires",
+                    "districts": "15",
+                    "connections": "12",
+                    "trafic": 2547550
+                },
+                "7": {
+                    "name": "Pasteur",
+                    "districts": "15",
+                    "connections": "12,6",
+                    "trafic": 5089504
+                },
+                "8": {
+                    "name": "FalguiÃ¨re",
+                    "districts": "15",
+                    "connections": "12",
+                    "trafic": 926922
+                },
+                "9": {
+                    "name": "Montparnasse BienvenÃ¼e",
+                    "districts": "6,14,15",
+                    "connections": "4,6,12,13",
+                    "trafic": 31152275
+                },
+                "10": {
+                    "name": "Notre-Dames-des-Champs",
+                    "districts": "6",
+                    "connections": "12",
+                    "trafic": 2030493
+                },
+                "11": {
+                    "name": "Rennes",
+                    "districts": "6",
+                    "connections": "12",
+                    "trafic": 1307167
+                },
+                "12": {
+                    "name": "SÃ¨vres - Babylone",
+                    "districts": "6,7",
+                    "connections": "10,12",
+                    "trafic": 5618445
+                },
+                "13": {
+                    "name": "Rue du Bac",
+                    "districts": "7",
+                    "connections": "12",
+                    "trafic": 2563169
+                },
+                "14": {
+                    "name": "SolfÃ©rino",
+                    "districts": "7",
+                    "connections": "12",
+                    "trafic": 2449915
+                },
+                "15": {
+                    "name": "AssemblÃ©e Nationale",
+                    "districts": "7",
+                    "connections": "12",
+                    "trafic": 1085710
+                },
+                "16": {
+                    "name": "Concorde",
+                    "districts": "1,8",
+                    "connections": "1,8,12",
+                    "trafic": 6866631
+                },
+                "17": {
+                    "name": "Madeleine",
+                    "districts": "8",
+                    "connections": "8,12,14",
+                    "trafic": 7412746
+                },
+                "18": {
+                    "name": "Saint-Lazare",
+                    "districts": "8,9",
+                    "connections": "3,9,12,13,14",
+                    "trafic": 46790941
+                },
+                "19": {
+                    "name": "TrinitÃ© - d'Estienne d'Orves",
+                    "districts": "9",
+                    "connections": "12",
+                    "trafic": 2192391
+                },
+                "20": {
+                    "name": "Notre-Dame-de-Lorette",
+                    "districts": "9",
+                    "connections": "12",
+                    "trafic": 2849349
+                },
+                "21": {
+                    "name": "Saint-Georges",
+                    "districts": "9",
+                    "connections": "12",
+                    "trafic": 1254251
+                },
+                "22": {
+                    "name": "Pigalle",
+                    "districts": "9,18",
+                    "connections": "2,12",
+                    "trafic": 6172069
+                },
+                "23": {
+                    "name": "Abbesses",
+                    "districts": "18",
+                    "connections": "12",
+                    "trafic": 2545127
+                },
+                "24": {
+                    "name": "Lamarck - Caulaincourt",
+                    "districts": "18",
+                    "connections": "12",
+                    "trafic": 3054528
+                },
+                "25": {
+                    "name": "Jules Joffrin",
+                    "districts": "18",
+                    "connections": "12",
+                    "trafic": 4384318
+                },
+                "26": {
+                    "name": "Marcadet - Poissonniers",
+                    "districts": "18",
+                    "connections": "4,12",
+                    "trafic": 6064992
+                },
+                "27": {
+                    "name": "Marx Dormoy",
+                    "districts": "18",
+                    "connections": "12",
+                    "trafic": 3586107
+                },
+                "28": {
+                    "name": "Porte de la Chapelle",
+                    "districts": "18",
+                    "connections": "12",
+                    "trafic": 3431552
+                },
+                "29": {
+                    "name": "Front Populaire",
+                    "districts": "22,45",
+                    "connections": "12",
+                    "trafic": 0
+                }
+            }
+        },
+        "15": {
+            "name": "Ligne 13",
+            "nbstations": 32,
+            "stations": {
+                "1": {
+                    "name": "ChÃ¢tillon - Montrouge",
+                    "districts": "41,27",
+                    "connections": "13",
+                    "trafic": 6540563
+                },
+                "2": {
+                    "name": "Malakoff - Rue Ã‰tienne Dolet",
+                    "districts": "39",
+                    "connections": "13",
+                    "trafic": 1846661
+                },
+                "3": {
+                    "name": "Malakoff - Plateau de Vanves",
+                    "districts": "39,48",
+                    "connections": "13",
+                    "trafic": 5317934
+                },
+                "4": {
+                    "name": "Porte de Vanves",
+                    "districts": "14",
+                    "connections": "13",
+                    "trafic": 4715395
+                },
+                "5": {
+                    "name": "Plaisance",
+                    "districts": "14",
+                    "connections": "13",
+                    "trafic": 4645997
+                },
+                "6": {
+                    "name": "Pernety",
+                    "districts": "14",
+                    "connections": "13",
+                    "trafic": 3275971
+                },
+                "7": {
+                    "name": "GaÃ®tÃ©",
+                    "districts": "14",
+                    "connections": "13",
+                    "trafic": 3223366
+                },
+                "8": {
+                    "name": "Montparnasse - BienvenÃ¼e",
+                    "districts": "6,14,15",
+                    "connections": "4,6,12,13",
+                    "trafic": 31152275
+                },
+                "9": {
+                    "name": "Duroc",
+                    "districts": "6,7,15",
+                    "connections": "10,13",
+                    "trafic": 3218029
+                },
+                "10": {
+                    "name": "Saint-FranÃ§ois-Xavier",
+                    "districts": "7",
+                    "connections": "13",
+                    "trafic": 1850407
+                },
+                "11": {
+                    "name": "Varenne",
+                    "districts": "7",
+                    "connections": "13",
+                    "trafic": 1517830
+                },
+                "12": {
+                    "name": "Invalides",
+                    "districts": "7",
+                    "connections": "8,13",
+                    "trafic": 6931062
+                },
+                "13": {
+                    "name": "Champs-Ã‰lysÃ©es - Clemenceau",
+                    "districts": "8",
+                    "connections": "1,13",
+                    "trafic": 4502691
+                },
+                "14": {
+                    "name": "Mirosmesnil",
+                    "districts": "8",
+                    "connections": "9,13",
+                    "trafic": 5769023
+                },
+                "15": {
+                    "name": "Saint-Lazare",
+                    "districts": "8,9",
+                    "connections": "3,9,12,13,14",
+                    "trafic": 46790941
+                },
+                "16": {
+                    "name": "LiÃ¨ge",
+                    "districts": "8",
+                    "connections": "13",
+                    "trafic": 1731063
+                },
+                "17": {
+                    "name": "Place de Clichy",
+                    "districts": "8,9,17,18",
+                    "connections": "2,13",
+                    "trafic": 9255747
+                },
+                "18": {
+                    "name": "La Fourche",
+                    "districts": "17,18",
+                    "connections": "13",
+                    "trafic": 2975434
+                },
+                "19": {
+                    "name": "Brochant",
+                    "districts": "17",
+                    "connections": "13",
+                    "trafic": 3401859
+                },
+                "20": {
+                    "name": "Porte de Clichy",
+                    "districts": "17",
+                    "connections": "13",
+                    "trafic": 4156619
+                },
+                "21": {
+                    "name": "Mairie de Clichy",
+                    "districts": "28",
+                    "connections": "13",
+                    "trafic": 6892451
+                },
+                "22": {
+                    "name": "Gabriel PÃ©ri",
+                    "districts": "21,31",
+                    "connections": "13",
+                    "trafic": 5377830
+                },
+                "23": {
+                    "name": "Les Agnettes",
+                    "districts": "21,31",
+                    "connections": "13",
+                    "trafic": 2367677
+                },
+                "24": {
+                    "name": "AsniÃ¨res - Gennevilliers - Les Courtilles",
+                    "districts": "21,31",
+                    "connections": "13",
+                    "trafic": 3377106
+                },
+                "25": {
+                    "name": "Guy MÃ´quet",
+                    "districts": "17,18",
+                    "connections": "13",
+                    "trafic": 4524101
+                },
+                "26": {
+                    "name": "Porte de Saint-Ouen",
+                    "districts": "17,18",
+                    "connections": "13",
+                    "trafic": 3814464
+                },
+                "27": {
+                    "name": "Garibaldi",
+                    "districts": "47",
+                    "connections": "13",
+                    "trafic": 3088530
+                },
+                "28": {
+                    "name": "Mairie de Saint-Ouen",
+                    "districts": "47",
+                    "connections": "13",
+                    "trafic": 3732408
+                },
+                "29": {
+                    "name": "Carrefour Pleyel",
+                    "districts": "45",
+                    "connections": "13",
+                    "trafic": 2754091
+                },
+                "30": {
+                    "name": "Saint-Denis - Porte de Paris",
+                    "districts": "45",
+                    "connections": "13",
+                    "trafic": 3517853
+                },
+                "31": {
+                    "name": "Basilique de Saint-Denis",
+                    "districts": "45",
+                    "connections": "13",
+                    "trafic": 5415515
+                },
+                "32": {
+                    "name": "Saint-Denis - UniversitÃ©",
+                    "districts": "45",
+                    "connections": "13",
+                    "trafic": 5365746
+                }
+            }
+        },
+        "16": {
+            "name": "Ligne 14",
+            "nbstations": 9,
+            "stations": {
+                "1": {
+                    "name": "Saint-Lazare",
+                    "districts": "8,9",
+                    "connections": "3,9,12,13,14",
+                    "trafic": 46790941
+                },
+                "2": {
+                    "name": "Madeleine",
+                    "districts": "8",
+                    "connections": "8,12,14",
+                    "trafic": 7412746
+                },
+                "3": {
+                    "name": "Pyramides",
+                    "districts": "1",
+                    "connections": "7,14",
+                    "trafic": 5084082
+                },
+                "4": {
+                    "name": "ChÃ¢telet",
+                    "districts": "1,4",
+                    "connections": "1,4,7,11,14",
+                    "trafic": 14440964
+                },
+                "5": {
+                    "name": "Gare de Lyon",
+                    "districts": "12",
+                    "connections": "1,14",
+                    "trafic": 34523049
+                },
+                "6": {
+                    "name": "Bercy",
+                    "districts": "12",
+                    "connections": "6,14",
+                    "trafic": 5565249
+                },
+                "7": {
+                    "name": "Cour Saint-Ã‰milion",
+                    "districts": "12",
+                    "connections": "14",
+                    "trafic": 5550822
+                },
+                "8": {
+                    "name": "BibliothÃ¨que FranÃ§ois-Mitterrand",
+                    "districts": "13",
+                    "connections": "14",
+                    "trafic": 15826727
+                },
+                "9": {
+                    "name": "Olympiades",
+                    "districts": "13",
+                    "connections": "14",
+                    "trafic": 7245724
+                }
+            }
+        }
+    }
+}
